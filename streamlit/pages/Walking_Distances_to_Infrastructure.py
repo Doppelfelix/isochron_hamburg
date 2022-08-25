@@ -5,7 +5,7 @@ st.title("Isochron Map for Walking distances in Hamburg")
 
 
 def render_map(url):
-    with open("pages/maps/" + url, "r") as f:
+    with open("streamlit/pages/maps/" + url, "r") as f:
         html_data = f.read()
 
     st.components.v1.html(html_data, width=700, height=700)

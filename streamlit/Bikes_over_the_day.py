@@ -11,7 +11,7 @@ from streamlit_folium import st_folium
 st.title("City bike availability in Hamburg over the week")
 
 
-df = pd.read_csv("input_data/station_df.csv")
+df = pd.read_csv("streamlit/input_data/station_df.csv")
 max = math.ceil(df.average_res.max())
 
 
