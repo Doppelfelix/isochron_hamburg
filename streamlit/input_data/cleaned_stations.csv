@@ -1,0 +1,2302 @@
+id,name,lat,lon,subway,suburban
+618002549,Hamburg Hbf,53.551753,10.005659,False,False
+618098549,Hamburg Hbf (S-Bahn),53.551753,10.005659,False,False
+670694826,"Hauptbahnhof Süd, Hamburg",53.551753,10.005659,False,False
+690694827,"Hauptbahnhof Nord, Hamburg",53.551753,10.005659,False,False
+694785,"Mönckebergstraße, Hamburg",53.551312,10.002019,True,False
+694866,"Steinstraße, Hamburg",53.54911,10.006154,True,False
+694786,"Meßberg, Hamburg",53.547717,10.000823,True,False
+694842,"Lohmühlenstraße, Hamburg",53.556697,10.019098,True,False
+694995,"Jungfernstieg, Hamburg",53.553209,9.994701,True,True
+694996,"Berliner Tor, Hamburg",53.55338,10.023206,True,True
+8000908,Hamburg Berliner Tor,53.552993,10.024653,True,True
+8002548,Hamburg Dammtor,53.560841,9.989533,False,True
+8003137,Hamburg Jungfernstieg,53.55231,9.993946,True,True
+8004266,Hamburg-Hammerbrook,53.546449,10.02371,False,True
+694784,"Rathaus, Hamburg",53.550306,9.994099,True,False
+694811,"Gänsemarkt (Oper), Hamburg",53.5556,9.986036,True,False
+600694785,"Mönckebergstraße (U), Hamburg",53.551303,10.001326,False,False
+694818,"Rödingsmarkt, Hamburg",53.548166,9.986845,True,False
+694820,"Gerhart-Hauptmann-Platz, Hamburg",53.550764,9.99872,False,False
+694825,"Steinstraße (Deichtorplatz) (U), Hamburg",53.548858,10.005857,True,False
+895126,"Lübecker Straße, Hamburg",53.560095,10.028788,True,False
+8005663,Hamburg Stadthausbrücke,53.549497,9.984391,False,True
+694781,"Messehallen (U), Hamburg",53.558036,9.97657,True,False
+694819,"Rathausmarkt, Hamburg",53.550369,9.994009,True,False
+694828,"Lohmühlenstraße (U), Hamburg",53.556742,10.01935,True,False
+694830,"Wartenau, Hamburg",53.56476,10.035512,True,False
+694831,"Uhlandstraße, Hamburg",53.564607,10.026802,True,False
+694853,"Hammerbrook (Süd) (S), Hamburg",53.545451,10.024806,False,True
+694884,"Burgstraße, Hamburg",53.555744,10.041697,True,False
+895883,"Überseequartier, Hamburg",53.540355,9.998666,True,False
+895975,"Hammerbrook (Nord) (S), Hamburg",53.547708,10.022999,False,True
+896022,"Berliner Tor (Beim Strohhause) (S+U), Hamburg",53.553452,10.02308,True,True
+8002628,Hamburg Hasselbrook,53.56485,10.056511,False,True
+8003519,Hamburg Landwehr,53.56085,10.037139,False,True
+8005191,Hamburg-Rothenburgsort,53.538287,10.044457,False,True
+8070146,Hamburg-Sternschanze,53.563762,9.965846,True,True
+110066,"Kurt-Schumacher-Allee, Hamburg",53.551906,10.016222,False,False
+374630,"Gänsemarkt (Valentinskamp) (U), Hamburg",53.555627,9.987096,True,False
+692080,"Baumwall (Elbphilharmonie), Hamburg",53.544229,9.981703,True,False
+692958,"Mundsburg, Hamburg",53.569426,10.027539,True,False
+694780,"Gänsemarkt (U), Hamburg",53.555376,9.98849,True,False
+694810,"Stephansplatz (Oper/CCH), Hamburg",53.558549,9.989317,True,False
+694821,"HBF/Mönckebergstraße, Hamburg",53.551573,10.004185,False,False
+694881,"Hammer Kirche, Hamburg",53.555609,10.055109,True,False
+694885,"Borgfelder Straße, Hamburg",53.55471,10.033643,False,False
+694886,"Berliner Tor (Bürgerweide) (S+U), Hamburg",53.553038,10.025633,True,True
+895617,"Jungfernstieg (S+U), Hamburg",53.553128,9.99285,True,True
+895914,"HafenCity Universität, Hamburg",53.540543,10.008149,True,False
+8003518,Hamburg Landungsbrücken,53.546314,9.970619,True,True
+371664,"Jakobikirchhof, Hamburg",53.550072,10.000724,False,False
+692467,"Schlump, Hamburg",53.567583,9.970125,True,False
+693282,"Ritterstraße, Hamburg",53.56761,10.04674,True,False
+694783,"Rödingsmarkt (Großer Burstah) (U), Hamburg",53.548589,9.987411,True,False
+694802,"Bahnhof Dammtor, Hamburg",53.561048,9.990315,False,True
+694824,"Burgstraße (U), Hamburg",53.555555,10.041643,True,False
+694841,"Böckmannstraße, Hamburg",53.55489,10.015143,False,False
+694846,"Jungestraße, Hamburg",53.556328,10.028105,False,False
+694879,"HBF/Spitalerstraße, Hamburg",53.552553,10.00547,False,False
+695445,"Rathausmarkt (Petrikirche), Hamburg",53.550351,9.996041,True,False
+895337,"Uhlandstraße (U), Hamburg",53.565524,10.026128,True,False
+895341,"Wartenau (U), Hamburg",53.564185,10.034461,True,False
+895667,"HBF/Steintordamm, Hamburg",53.551924,10.007754,False,False
+8002550,Hamburg Holstenstraße,53.561668,9.950169,False,True
+620694784,Hamburg Rathaus,53.550414,9.996023,False,False
+692468,"Christuskirche, Hamburg",53.569614,9.962349,True,False
+692472,"Sternschanze (Kehre) (S+U), Hamburg",53.564257,9.968821,True,True
+692959,"Hamburger Straße, Hamburg",53.574487,10.037319,True,False
+692999,"Mundsburg (U), Hamburg",53.569938,10.026955,True,False
+693217,"Rauhes Haus, Hamburg",53.554189,10.066148,True,False
+694247,"Brandstwiete, Hamburg",53.547043,9.997066,False,False
+694782,"Baumwall (U), Hamburg",53.544193,9.981119,True,False
+694787,"Stephansplatz (U), Hamburg",53.558225,9.988661,True,False
+694788,"Hallerstraße, Hamburg",53.572851,9.989065,True,False
+694809,"Sievekingplatz, Hamburg",53.556158,9.977038,False,False
+694823,"Hammer Kirche (U), Hamburg",53.555259,10.055558,True,False
+694829,"Lübecker Straße (U), Hamburg",53.56005,10.028627,True,False
+694833,"Alfredstraße, Hamburg",53.557443,10.032519,False,False
+694844,"Landwehr (Ramazan-Avci-Platz) (S), Hamburg",53.561201,10.03731,False,True
+694872,"Rothenburgsort (S), Hamburg",53.540669,10.042919,False,True
+694887,"Hauptbahnhof/ZOB, Hamburg",53.551888,10.010334,True,True
+694889,"HBF/Steintorwall, Hamburg",53.551294,10.005776,False,False
+694992,"Wandsbeker Chaussee, Hamburg",53.569758,10.057815,True,True
+895177,"Landungsbrücken, Hamburg",53.545874,9.97132,True,True
+895301,"Bahnhof Hasselbrook, Hamburg",53.565174,10.057383,False,True
+8005870,Hamburg-Tiefstack,53.530772,10.066732,False,True
+8006198,Hamburg Wandsbeker Chaussee,53.570118,10.05981,True,True
+8006705,Hamburg Reeperbahn,53.549667,9.957414,False,True
+600692080,"Baumwall, Hamburg",53.544229,9.982494,False,False
+111099,"Speersort, Hamburg",53.549515,9.996625,False,False
+310061,"Hammer Kirche (Hammer Landstraße) (U), Hamburg",53.554926,10.05741,False,False
+310073,"Bullenhuser Damm (West), Hamburg",53.542665,10.042821,False,False
+371943,"Elbbrücken, Hamburg",53.535222,10.02362,True,True
+692469,"Emilienstraße, Hamburg",53.571655,9.952776,True,False
+692960,"Dehnhaide, Hamburg",53.578945,10.040834,True,False
+693302,"Ritterstraße (U), Hamburg",53.56716,10.044025,True,False
+694803,"Universität/Staatsbibliothek, Hamburg",53.564221,9.984445,False,False
+694847,"Wendenstraße, Hamburg",53.547789,10.028492,False,False
+895155,"Uferstraße, Hamburg",53.567376,10.030658,False,False
+895750,"Normannenweg, Hamburg",53.551375,10.035467,False,False
+895871,"Überseequartier (U), Hamburg",53.54075,9.997003,True,False
+895928,"HafenCity Universität (U), Hamburg",53.540453,10.009237,True,False
+8000147,Hamburg-Harburg,53.456198,9.991591,False,True
+8071066,Hamburg Hbf (Spitalerstraße),53.552562,10.00547,False,False
+110070,"Marienkrankenhaus, Hamburg",53.56076,10.034299,False,False
+111072,"Rambachstraße, Hamburg",53.544553,9.976022,False,False
+210071,"Landwehr (Hasselbrookstraße) (S), Hamburg",53.561776,10.037589,False,True
+374950,"Sternschanze (Messe), Hamburg",53.563825,9.969442,True,True
+379914,"Billhorner Deich (Wasserforum), Hamburg",53.533685,10.041544,False,False
+692512,"Christuskirche (U), Hamburg",53.569516,9.96332,True,False
+692514,"Schlump (U), Hamburg",53.567673,9.970134,True,False
+692515,"Sternschanze (S+U), Hamburg",53.564104,9.965936,True,True
+693000,"Beethovenstraße, Hamburg",53.574675,10.021858,False,False
+693035,"Mundsburger Brücke, Hamburg",53.565938,10.02024,False,False
+693216,"Horner Rennbahn, Hamburg",53.55382,10.083847,True,False
+693304,"Wandsbeker Chaussee (S+U), Hamburg",53.570001,10.05848,True,True
+694249,"Bei St. Annen, Hamburg",53.545523,9.997227,False,False
+694801,"Fontenay, Hamburg",53.564374,9.994441,False,False
+694813,"Axel-Springer-Platz, Hamburg",53.552526,9.984849,False,False
+694814,"Johannes-Brahms-Platz, Hamburg",53.555007,9.978754,False,False
+694840,"HBF/Kirchenallee, Hamburg",53.5532,10.008536,False,False
+694845,"Carl-Petersen-Straße, Hamburg",53.559232,10.038713,False,False
+694848,"Wendenstraße (Mitte), Hamburg",53.549667,10.03669,False,False
+694858,"Grüne Brücke, Hamburg",53.543627,10.040834,False,False
+694882,"Beim Hammer Marktplatz, Hamburg",53.55711,10.054039,False,False
+702526,"Holstenstraße (S), Hamburg",53.561974,9.948542,False,True
+895176,"St.Pauli, Hamburg",53.550782,9.970188,True,False
+895339,"Wandsbek Markt, Hamburg",53.571637,10.06675,True,False
+895340,"Klosterstern, Hamburg",53.581606,9.988391,True,False
+895932,"Kunsthalle, Hamburg",53.555618,10.000643,False,False
+8000971,Hamburg Billwerder-Moorfleet,53.515517,10.097097,False,True
+8001438,Hamburg Diebsteich,53.569012,9.93424,False,True
+8002106,Hamburg Friedrichsberg,53.576186,10.057464,False,True
+8002554,Hamburg-Bergedorf,53.489835,10.206307,False,True
+8006706,Hamburg Königstraße,53.547852,9.944047,False,True
+8076116,Hamburg Hbf ZOB,53.551717,10.011439,True,True
+154029,"Elbbrücken (Zweibrückenstraße) (S+U), Hamburg",53.534161,10.025975,True,True
+160022,"Wandsbeker Chaussee (Hammer Straße) (S+U), Hamburg",53.57001,10.061123,True,True
+160112,"Richardstraße, Hamburg",53.568203,10.039144,False,False
+210067,"Stoeckhardtstraße, Hamburg",53.557776,10.049697,False,False
+211049,"Domstraße, Hamburg",53.548211,9.994602,False,False
+370956,"Pröbenweg, Hamburg",53.554441,10.050183,False,False
+371775,"Entenwerder Stieg, Hamburg",53.530359,10.042821,False,False
+376065,"Elbbrücken (S+U), Hamburg",53.53533,10.024159,True,True
+692470,"Osterstraße, Hamburg",53.576078,9.95167,True,False
+692471,"Holstenstraße (Holstenplatz) (S), Hamburg",53.561578,9.946798,False,True
+692764,"Reeperbahn (S), Hamburg",53.549676,9.955571,False,True
+692994,"Dehnhaide (U), Hamburg",53.579871,10.041221,True,False
+692997,"Hamburger Straße (U), Hamburg",53.575035,10.035629,True,False
+693215,"Legienstraße, Hamburg",53.547384,10.095443,True,False
+693259,"Rauhes Haus (U), Hamburg",53.553973,10.065384,True,False
+694779,"Feldstraße (Heiligengeistfeld), Hamburg",53.556976,9.968714,True,False
+694791,"Grindelhof, Hamburg",53.567223,9.980894,False,False
+694798,"Hallerstraße (U), Hamburg",53.572689,9.988652,True,False
+694807,"Feldstraße (U), Hamburg",53.557308,9.969037,True,False
+694808,"Museum am Rothenbaum, Hamburg",53.568203,9.988436,False,False
+694815,"Handwerkskammer, Hamburg",53.553371,9.976723,False,False
+694832,"Grevenweg, Hamburg",53.550926,10.042893,False,False
+694851,"Ausschläger Weg (Verkehrsamt), Hamburg",53.547573,10.038308,False,False
+694860,"Tiefstack (S), Hamburg",53.530547,10.064988,False,True
+694880,"Hübbesweg, Hamburg",53.55454,10.061356,False,False
+694883,"Saling, Hamburg",53.558917,10.048151,False,False
+704893,"Dragonerstall, Hamburg",53.555627,9.982054,False,False
+895125,"Süderstraße, Hamburg",53.545335,10.030424,False,False
+895156,"Eilbeker Weg, Hamburg",53.568554,10.043531,False,False
+895828,"Singapurstraße, Hamburg",53.543932,9.997398,False,False
+895869,"Am Kaiserkai (Elbphilharmonie), Hamburg",53.542719,9.985568,False,False
+895995,"Ausschläger Allee (Kfz-Verwahrstelle), Hamburg",53.531024,10.060044,False,False
+8006197,Hamburg-Tonndorf,53.587287,10.124551,False,False
+8098553,Hamburg-Altona(S),53.551267,9.934707,False,True
+111066,"Elbbrücken (Baakenwerder Straße) (S+U), Hamburg",53.536615,10.022433,True,True
+371979,"Dimpfelweg, Hamburg",53.552832,10.04923,False,False
+692068,"Haus des KFZ-Gewerbes, Hamburg",53.541325,10.035899,False,False
+692372,"Kellinghusenstraße, Hamburg",53.588968,9.991151,True,False
+692422,"Klosterstern (U), Hamburg",53.582172,9.987483,True,False
+692516,"Sternbrücke, Hamburg",53.561263,9.955122,False,False
+692681,"Landungsbrücken Brücke 1, Hamburg",53.544867,9.971464,True,True
+692682,"Landungsbrücken Brücke 2, Hamburg",53.545137,9.97052,True,True
+692683,"Landungsbrücken Brücke 3, Hamburg",53.545263,9.969801,True,True
+692763,"Landungsbrücken (S+U), Hamburg",53.546243,9.969657,True,True
+692765,"Davidstraße, Hamburg",53.549425,9.961648,False,False
+692766,"St.Pauli (U), Hamburg",53.550063,9.970368,True,False
+692774,"Gluckstraße, Hamburg",53.572042,10.038937,False,False
+692968,"Hebbelstraße, Hamburg",53.577642,10.018028,False,False
+693260,"Am Elisabethgehölz, Hamburg",53.557488,10.061986,False,False
+694263,"Marco-Polo-Terrassen, Hamburg",53.5404,9.99374,False,False
+694800,"Böttgerstraße, Hamburg",53.568356,9.995528,False,False
+694816,"Museum für Hamburgische Geschichte, Hamburg",53.550476,9.974026,False,False
+694837,"Graumannsweg, Hamburg",53.563088,10.017588,False,False
+694839,"Gurlittstraße, Hamburg",53.557317,10.011125,False,False
+694861,"Rothenburgstraße, Hamburg",53.531518,10.056224,False,False
+694878,"Borstelmannsweg, Hamburg",53.550405,10.049661,False,False
+694890,"Billhorner Deich, Hamburg",53.534188,10.042488,False,False
+694997,"Barmbek, Hamburg",53.587395,10.044448,True,True
+895298,"Straßburger Straße, Hamburg",53.581966,10.067963,True,False
+895870,"Am Sandtorkai, Hamburg",53.543141,9.991708,False,False
+895874,"Albertstraße, Hamburg",53.548858,10.018909,False,False
+895954,"Baakenhöft, Hamburg",53.53808,10.008787,False,False
+8003541,Hamburg-Langenfelde,53.579664,9.930923,False,True
+8071065,Hamburg Hbf (Kirchenallee),53.5532,10.008536,False,False
+110069,"Hirschgraben, Hamburg",53.563861,10.044493,False,False
+111067,"Ericusspitze, Hamburg",53.546045,10.003196,False,False
+372446,"Weidenallee, Hamburg",53.565147,9.965037,False,False
+377816,"Kaltehofe-Hinterdeich, Hamburg",53.52688,10.046039,False,False
+560066,"Bartholomäus-Therme, Hamburg",53.577831,10.028303,False,False
+692474,"Bernstorffstraße, Hamburg",53.560293,9.95932,False,False
+692498,"Osterstraße (U), Hamburg",53.576132,9.951607,True,False
+692508,"Schlankreye (DKH), Hamburg",53.571844,9.969918,False,False
+692513,"Alsenplatz, Hamburg",53.566199,9.951481,False,False
+692518,"Max-Brauer-Allee (Mitte), Hamburg",53.558594,9.94945,False,False
+692520,"Lutterothstraße, Hamburg",53.581993,9.947724,True,False
+692722,"Kaltenkircher Platz, Hamburg",53.563628,9.941548,False,False
+693001,"Schumannstraße, Hamburg",53.57659,10.023862,False,False
+693214,"Billstedt, Hamburg",53.542503,10.107129,True,False
+693221,"Hammer Steindamm, Hamburg",53.560796,10.055684,False,False
+693240,"Kraftwerk Tiefstack, Hamburg",53.527131,10.069132,False,False
+693257,"Bauerberg, Hamburg",53.550252,10.078463,False,False
+693258,"Culinstraße, Hamburg",53.55196,10.073195,False,False
+693262,"Caspar-Voght-Straße, Hamburg",53.560365,10.061518,False,False
+693266,"Horner Rennbahn (U), Hamburg",53.554198,10.084207,True,False
+693290,"Alter Teichweg, Hamburg",53.586649,10.064485,True,False
+693296,"Friedrichsberg (S), Hamburg",53.575988,10.057833,False,True
+693307,"Wandsbek Markt (U), Hamburg",53.572257,10.06871,True,False
+693362,"Zweibrückenstraße, Hamburg",53.533936,10.027961,False,False
+694797,"Bezirksamt Eimsbüttel, Hamburg",53.572347,9.97853,False,False
+694859,"Billstraße, Hamburg",53.541406,10.033373,False,False
+694862,"Zollvereinsstraße, Hamburg",53.532507,10.051378,False,False
+694873,"Großmannstraße, Hamburg",53.541245,10.048646,False,False
+702196,"Blücherstraße, Hamburg",53.549218,9.950286,False,False
+702207,"Billwerder-Moorfleet (S), Hamburg",53.516614,10.095929,False,True
+895117,"Maxstraße, Hamburg",53.570846,10.048241,False,False
+895282,"Diebsteich (Ostseite) (S), Hamburg",53.566675,9.934995,False,True
+895614,"Hamburg Messe (Eingang Mitte), Hamburg",53.562001,9.975896,False,False
+895684,"Magellan-Terrassen, Hamburg",53.542485,9.993317,False,False
+895766,"Kantstraße, Hamburg",53.569722,10.053014,False,False
+895867,"Pepermölenbek, Hamburg",53.547447,9.953935,False,False
+895872,"Shanghaiallee, Hamburg",53.541011,10.003924,False,False
+8000805,Hamburg-Barmbek,53.587233,10.045868,True,True
+8002551,Hamburg Elbbrücken,53.534826,10.024662,True,True
+8004048,Hamburg Mittlerer Landweg,53.498321,10.130636,False,True
+600692763,"Landungsbrücken (U) (S), Hamburg",53.546278,9.969478,False,False
+180995,"Osterstraße (Heußweg) (U), Hamburg",53.577552,9.952461,True,False
+310068,"Griesstraße, Hamburg",53.56236,10.047135,False,False
+375740,"Borstelmannsweg 133, Hamburg",53.548193,10.051073,False,False
+692370,"Sierichstraße, Hamburg",53.590335,10.00121,True,False
+692417,"Kellinghusenstraße (U), Hamburg",53.588627,9.991492,True,False
+692421,"Eppendorfer Baum (U), Hamburg",53.583647,9.984085,True,False
+692723,"Schützenstraße (Mitte), Hamburg",53.563502,9.928927,False,False
+692760,"Große Bergstraße, Hamburg",53.551214,9.946223,False,False
+692761,"Fischmarkt, Hamburg",53.547375,9.950816,False,False
+692762,"St. Pauli Hafenstraße, Hamburg",53.54644,9.964902,False,False
+692956,"Saarlandstraße, Hamburg",53.589112,10.031611,True,False
+692996,"Biedermannplatz, Hamburg",53.579871,10.032294,False,False
+693003,"Mozartstraße, Hamburg",53.578379,10.02184,False,False
+693032,"Hans-Henny-Jahnn-Weg, Hamburg",53.578541,10.013974,False,False
+693034,"Averhoffstraße, Hamburg",53.570639,10.016824,False,False
+693189,"Bahnhof Tonndorf, Hamburg",53.586433,10.122456,False,False
+693267,"Tribünenweg, Hamburg",53.559484,10.081034,False,False
+693293,"Straßburger Straße (U), Hamburg",53.58237,10.067748,True,False
+693297,"Seumestraße, Hamburg",53.573003,10.05474,False,False
+694265,"Auf dem Sande (Speicherstadt), Hamburg",53.543869,9.989901,False,False
+694799,"Alsterchaussee, Hamburg",53.572743,9.994018,False,False
+694806,"Neuer Pferdemarkt, Hamburg",53.558405,9.963347,False,False
+694812,"Parkallee, Hamburg",53.572581,9.983708,False,False
+694817,"Michaeliskirche, Hamburg",53.549362,9.977954,False,False
+694838,"AK St. Georg, Hamburg",53.55996,10.014675,False,False
+694857,"Billstraße 133, Hamburg",53.538934,10.047558,False,False
+694863,"Thiedingreihe, Hamburg",53.533658,10.046129,False,False
+694874,"Bullenhuser Damm, Hamburg",53.542161,10.051936,False,False
+694877,"Diagonalstraße, Hamburg",53.549254,10.05946,False,False
+895024,"Habichtstraße, Hamburg",53.593607,10.052268,True,False
+895116,"Hammer Straße, Hamburg",53.569129,10.062255,False,False
+895118,"Bundesstraße, Hamburg",53.569821,9.975195,False,False
+895128,"Oberstraße, Hamburg",53.577633,9.988948,False,False
+895243,"Bogenstraße, Hamburg",53.57401,9.972849,False,False
+895283,"Diebsteich (Westseite) (S), Hamburg",53.568716,9.93175,False,True
+895293,"Gerichtstraße, Hamburg",53.555708,9.943247,False,False
+895873,"Repsoldstraße, Hamburg",53.548454,10.014523,False,False
+896108,"Legienstraße (SEV) (U), Hamburg",53.546207,10.09788,True,False
+8002559,Hamburg-Stellingen,53.585948,9.925386,False,True
+608006706,Hamburg Königstr.,53.54715,9.942141,False,False
+111101,"Zoologisches Museum, Hamburg",53.566999,9.977595,False,False
+159251,"Bahnhof Bergedorf (Weidenbaumsweg), Hamburg",53.488936,10.206343,False,True
+159252,"Bahnhof Bergedorf (Johann-M.-Straße), Hamburg",53.490662,10.205085,False,True
+159253,"Bahnhof Bergedorf (Sander Damm), Hamburg",53.492981,10.205795,False,True
+159254,"Bahnhof Bergedorf (Alte Holstenstraße), Hamburg",53.490518,10.208303,False,True
+170087,"Flotowstraße, Hamburg",53.580716,10.025696,False,False
+219222,"Königstraße (S), Hamburg",53.548472,9.944937,False,True
+259255,"Bahnhof Bergedorf (Ludwig-R.-Ring), Hamburg",53.491453,10.2062,False,True
+370647,"Hammer Deich (Ost), Hamburg",53.545496,10.048475,False,False
+375592,"Kreuzbrook, Hamburg",53.546386,10.045472,False,False
+692368,"Hoheluftbrücke, Hamburg",53.577417,9.976085,True,False
+692369,"Eppendorfer Baum, Hamburg",53.58379,9.985227,True,False
+692403,"Sophienterrasse, Hamburg",53.576141,9.993263,False,False
+692476,"Stresemannstraße, Hamburg",53.563789,9.944982,False,False
+692510,"Fruchtallee (Hamburg-Haus), Hamburg",53.571349,9.957001,False,False
+692521,"Hagenbecks Tierpark, Hamburg",53.592906,9.943957,True,False
+692700,"Hafentreppe, Hamburg",53.545928,9.957468,False,False
+692957,"Borgweg (Stadtpark), Hamburg",53.590766,10.014603,True,False
+693004,"Herderstraße, Hamburg",53.580887,10.020437,False,False
+693031,"Gertigstraße, Hamburg",53.581058,10.011952,False,False
+693033,"Zimmerstraße, Hamburg",53.574585,10.014936,False,False
+693110,"Wandsbek-Gartenstadt, Hamburg",53.592402,10.074723,True,False
+693218,"Kattensteert, Hamburg",53.54982,10.099561,False,False
+693241,"Bredowbrücke, Hamburg",53.529433,10.076081,False,False
+693256,"Horner Rampe, Hamburg",53.547429,10.084818,False,False
+693263,"BAB-Auffahrt Horn, Hamburg",53.559448,10.067757,False,False
+693273,"Sandkamp, Hamburg",53.554054,10.089942,False,False
+693275,"Billstedt (U), Hamburg",53.542341,10.106563,True,False
+693311,"Bahnhof Wandsbek, Hamburg",53.570388,10.077816,False,False
+693313,"Am Husarendenkmal, Hamburg",53.564769,10.077932,False,False
+694417,"Bahnhof Bergedorf, Hamburg",53.489215,10.205822,False,True
+694624,"Merkenstraße, Hamburg",53.538656,10.126043,True,False
+694774,"Andreas-Meyer-Straße (Mitte), Hamburg",53.518079,10.078292,False,False
+694796,"Hoheluftbrücke (U), Hamburg",53.578424,9.976058,True,False
+694856,"Billstraße 185, Hamburg",53.537083,10.054084,False,False
+694867,"Spaldingstraße, Hamburg",53.547654,10.013273,False,False
+694875,"Billerhuder Insel, Hamburg",53.54413,10.058408,False,False
+701196,"Theater im Hafen, Hamburg",53.540759,9.974242,False,False
+895360,"Behnstraße, Hamburg",53.546278,9.942411,False,False
+895656,"Goethestraße, Hamburg",53.551978,9.940083,False,False
+895767,"Auenstraße, Hamburg",53.572419,10.050695,False,False
+895792,"Osakaallee, Hamburg",53.5428,9.998594,False,False
+895855,"Braune Brücke, Hamburg",53.546764,10.061087,False,False
+895868,"Bernhard-Nocht-Straße, Hamburg",53.547105,9.962924,False,False
+895882,"Paulinenstraße, Hamburg",53.554953,9.964641,False,False
+895935,"Rothenburgsorter Marktplatz, Hamburg",53.534682,10.038461,False,False
+895947,"Bahnhof Tonndorf (Tonndorfer Hauptstraße), Hamburg",53.585606,10.12331,False,False
+896035,"Koreastraße, Hamburg",53.543528,10.002153,False,False
+8000512,Hamburg Alte Wöhr,53.597634,10.035521,False,True
+8002558,Hamburg-Rahlstedt,53.604816,10.154287,False,False
+161083,"Horner Redder, Hamburg",53.552418,10.102994,False,False
+362384,"Habichtstraße (U), Hamburg",53.59367,10.050965,True,False
+521016,"Am Gleisdreieck, Hamburg",53.495525,10.12918,False,False
+597106,"Bahnhof Harburg, Hamburg",53.456782,9.99044,False,True
+692311,"Hagendeel, Hamburg",53.603639,9.945108,True,False
+692402,"Harvestehuder Weg, Hamburg",53.579557,9.994027,False,False
+692413,"Eppendorfer Weg (Ost), Hamburg",53.581939,9.971941,False,False
+692505,"Bismarckstraße, Hamburg",53.576689,9.969379,False,False
+692507,"Kaiser-Friedrich-Ufer, Hamburg",53.573039,9.964875,False,False
+692757,"Bahnhof Altona, Hamburg",53.551663,9.934231,False,True
+692768,"Rathaus Altona, Hamburg",53.547726,9.936325,False,False
+692970,"Burmesterstraße, Hamburg",53.587539,10.037023,False,False
+692993,"Flachsland, Hamburg",53.584231,10.047252,False,False
+693245,"Grusonstraße, Hamburg",53.531896,10.080773,False,False
+693254,"Washingtonallee, Hamburg",53.542323,10.096037,False,False
+693265,"O'Swaldstraße, Hamburg",53.556328,10.079748,False,False
+693274,"Querkamp, Hamburg",53.551294,10.094437,False,False
+693277,"Billstedter Hauptstraße, Hamburg",53.540417,10.100801,False,False
+693285,"Alter Teichweg (U), Hamburg",53.586514,10.064592,True,False
+693289,"Wandsbeker Allee, Hamburg",53.579386,10.069797,False,False
+693295,"Krausestraße, Hamburg",53.580024,10.057266,False,False
+693306,"Wendemuthstraße, Hamburg",53.574621,10.074948,False,False
+693310,"Gustav-Adolf-Straße, Hamburg",53.571008,10.082634,False,False
+693312,"Ziesenißstraße, Hamburg",53.567763,10.074346,False,False
+694716,"Mittlerer Landweg (S), Hamburg",53.497557,10.132281,False,True
+694855,"Billstraße (Mitte), Hamburg",53.536121,10.057455,False,False
+694868,"Lippeltstraße, Hamburg",53.545532,10.015934,False,False
+694871,"Billhorner Röhrendamm, Hamburg",53.537838,10.030865,False,False
+895188,"Haynstraße, Hamburg",53.586209,9.983213,False,False
+895331,"Fichtestraße, Hamburg",53.568509,10.051441,False,False
+895764,"Vierbergen, Hamburg",53.546341,10.093034,False,False
+895768,"Holsteinischer Kamp, Hamburg",53.575808,10.04878,False,False
+895799,"Elbphilharmonie, Hamburg",53.540579,9.985964,False,False
+8000779,Hamburg-Allermöhe,53.490357,10.158665,False,True
+8002555,Hamburg-Eidelstedt,53.59589,9.907101,False,True
+8072553,Hamburg-Altona (Max-Brauer-Allee),53.551411,9.936604,False,True
+8098147,Hamburg-Harburg(S),53.456836,9.991852,False,True
+161082,"Dahrendorfweg, Hamburg",53.556895,10.106464,False,False
+370988,"Wiesendamm, Hamburg",53.589966,10.014945,False,False
+692053,"Kleine Seilerstraße, Hamburg",53.551052,9.96786,False,False
+692412,"Gärtnerstraße, Hamburg",53.584168,9.96955,False,False
+692418,"Eppendorfer Marktplatz, Hamburg",53.592816,9.988975,False,False
+692475,"Schulterblatt, Hamburg",53.56387,9.960704,False,False
+692477,"Langenfelder Straße, Hamburg",53.568976,9.944128,False,False
+692489,"Stellingen (S), Hamburg",53.590119,9.918913,False,True
+692497,"Apostelkirche, Hamburg",53.575323,9.945234,False,False
+692504,"Mansteinstraße, Hamburg",53.578685,9.965567,False,False
+692509,"Schulweg, Hamburg",53.574666,9.959455,False,False
+692556,"Hagenbecks Tierpark (U), Hamburg",53.593418,9.944011,True,False
+692685,"Altona (Fischmarkt), Hamburg",53.543941,9.952227,False,False
+692724,"Bornkampsweg, Hamburg",53.563978,9.9193,False,False
+692725,"Von-Sauer-Straße, Hamburg",53.565704,9.911066,False,False
+692783,"Thadenstraße (West), Hamburg",53.554935,9.951679,False,False
+692995,"Brucknerstraße (Arbeitsgerichte), Hamburg",53.583566,10.033427,False,False
+693025,"Borgweg (U), Hamburg",53.590766,10.015646,True,False
+693030,"Goldbekplatz, Hamburg",53.583548,10.009758,False,False
+693172,"Wandsbek-Gartenstadt (U), Hamburg",53.592195,10.075865,True,False
+693200,"Bovestraße, Hamburg",53.568976,10.085609,False,False
+693246,"Werner-Siemens-Straße 20, Hamburg",53.531311,10.085744,False,False
+693255,"Horner Brückenweg, Hamburg",53.545335,10.088854,False,False
+693264,"Rhiemsweg, Hamburg",53.557866,10.074975,False,False
+693276,"Schiffbeker Höhe, Hamburg",53.547582,10.107246,False,False
+693288,"Schön Klinik Eilbek, Hamburg",53.578721,10.049913,False,False
+693294,"Straßburger Platz, Hamburg",53.580932,10.062067,False,False
+693300,"Josephstraße, Hamburg",53.572788,10.079622,False,False
+693305,"Hogrevestraße, Hamburg",53.576968,10.07271,False,False
+694259,"Billwerder Ring (Ost), Hamburg",53.494348,10.121629,False,False
+694623,"Steinfurther Allee, Hamburg",53.541092,10.139203,True,False
+694715,"Rungedamm (Ost), Hamburg",53.493494,10.126726,False,False
+694718,"Schule Mittlerer Landweg, Hamburg",53.499031,10.13443,False,False
+694772,"Moorfleet, Hamburg",53.511913,10.088045,False,False
+694805,"Heinrich-Hertz-Turm, Hamburg",53.564589,9.976372,False,False
+694850,"Luisenweg, Hamburg",53.548211,10.046551,False,False
+694854,"Gustav-Kunst-Straße, Hamburg",53.53755,10.059603,False,False
+694865,"Billhorner Mühlenweg, Hamburg",53.536453,10.034919,False,False
+694869,"Nagelsweg, Hamburg",53.543501,10.022154,False,False
+702212,"Bredowstraße (Ost), Hamburg",53.51923,10.096504,False,False
+895245,"Ruhrstraße, Hamburg",53.570693,9.923318,False,False
+895759,"Kirchlinden, Hamburg",53.541676,10.101898,False,False
+895765,"Hasencleverstraße, Hamburg",53.550908,10.08836,False,False
+895783,"Sander Markt, Hamburg",53.493305,10.208995,False,False
+895826,"Langenrehm, Hamburg",53.58255,10.047288,False,False
+895933,"Am Bergedorfer Hafen, Hamburg",53.488262,10.206703,False,False
+8000780,Hamburg-Bahrenfeld,53.56005,9.90996,False,True
+8004241,Hamburg-Nettelnburg,53.487912,10.181281,False,True
+8005207,Hamburg Rübenkamp,53.606776,10.032906,False,True
+8006062,Hamburg-Veddel,53.521891,10.013453,False,True
+600694867,"Spaldingstra&#223;e, Hamburg",53.54769,10.012698,False,False
+161084,"Rudolf-Roß-Allee (Dahrendorfweg), Hamburg",53.557173,10.104307,False,False
+360977,"Pinkertweg (Ost), Hamburg",53.522376,10.104864,False,False
+611204,"Schlachthofstraße (Süd), Hamburg",53.459299,9.994126,False,False
+692384,"Tarpenbekstraße, Hamburg",53.595054,9.983941,False,False
+692401,"Streekbrücke, Hamburg",53.583566,9.994935,False,False
+692407,"Veilchenweg (Ost), Hamburg",53.588645,9.967931,False,False
+692492,"Augustenburger Straße, Hamburg",53.565443,9.944622,False,False
+692495,"Sartoriusstraße, Hamburg",53.578019,9.941323,False,False
+692548,"Rathaus Stellingen, Hamburg",53.592627,9.93495,False,False
+692717,"Große Rainstraße, Hamburg",53.554099,9.932343,False,False
+692758,"Altonaer Poststraße, Hamburg",53.550108,9.940317,False,False
+692770,"Paul-Roosen-Straße, Hamburg",53.55338,9.954196,False,False
+692963,"Alte Wöhr (S), Hamburg",53.597508,10.036843,False,True
+692965,"Lämmersieth (Mitte), Hamburg",53.584779,10.053293,False,False
+692990,"Habichtstraße (Steilshooper Straße) (U), Hamburg",53.595117,10.050111,True,False
+692991,"Habichtsplatz, Hamburg",53.595989,10.046623,False,False
+693005,"Jarrestraße (Kampnagel), Hamburg",53.583952,10.020473,False,False
+693009,"Hellbrookstraße, Hamburg",53.591422,10.04443,False,False
+693027,"Semperstraße, Hamburg",53.586532,10.017561,False,False
+693029,"Dorotheenstraße, Hamburg",53.587287,10.004985,False,False
+693154,"Eulenkamp, Hamburg",53.583332,10.072692,False,False
+693178,"Friedhof Tonndorf, Hamburg",53.583152,10.114528,False,False
+693223,"Langer Hagen, Hamburg",53.535905,10.065312,False,False
+693237,"Öjendorfer Weg, Hamburg",53.545541,10.114159,False,False
+693242,"Moorfleeter Straße (Süd), Hamburg",53.52234,10.088854,False,False
+693247,"Werner-Siemens-Straße 34, Hamburg",53.530386,10.090832,False,False
+693253,"Eekholtesweg, Hamburg",53.541514,10.083596,False,False
+693261,"Sievekingdamm, Hamburg",53.560472,10.052205,False,False
+693291,"Olivaer Straße, Hamburg",53.583584,10.057581,False,False
+693363,"Veddeler Marktplatz, Hamburg",53.529397,10.023763,False,False
+693364,"Hovestieg, Hamburg",53.524776,10.021453,False,False
+694418,"Lohbrügger Markt, Hamburg",53.49486,10.207629,False,False
+694673,"Reclamstraße, Hamburg",53.538593,10.110204,False,False
+694675,"Allermöhe (S), Hamburg",53.489988,10.158566,False,True
+694706,"Hans-Duncker-Straße (Nord), Hamburg",53.492927,10.119121,False,False
+694719,"Mittlerer Landweg (Nord), Hamburg",53.502393,10.139616,False,False
+694849,"Schadesweg, Hamburg",53.547609,10.05225,False,False
+694870,"Billhorner Brückenstraße, Hamburg",53.540391,10.032007,False,False
+694911,"Saarlandstraße (U), Hamburg",53.587404,10.033211,True,False
+895161,"Bahnhof Rahlstedt (Amtsstraße), Hamburg",53.603648,10.153972,False,False
+895189,"Bezirksamt Hamburg-Nord, Hamburg",53.590514,9.987393,False,False
+895226,"Trabrennbahn, Hamburg",53.598254,10.10214,True,False
+895615,"Studio Hamburg, Hamburg",53.586271,10.125333,False,False
+895769,"Stückenstraße (Schön Klinik), Hamburg",53.579206,10.049446,False,False
+895814,"Bahnhof Rahlstedt (Doberaner Weg), Hamburg",53.604618,10.153496,False,False
+896053,"Stellingen (Bus-Shuttle) (S), Hamburg",53.589939,9.91521,False,True
+8002560,Hamburg-Wandsbek,53.569902,10.077213,False,False
+8004267,Hamburg-Harburg Rathaus,53.460701,9.980247,False,True
+8071258,Hamburg Wendemuthstraße,53.574675,10.074714,False,False
+111073,"Hohenesch, Hamburg",53.554692,9.928604,False,False
+160036,"Claudiusstraße, Hamburg",53.56476,10.071227,False,False
+165029,"Heestweg, Hamburg",53.60203,10.149217,False,False
+200100,"Grüningweg, Hamburg",53.560131,10.101017,False,False
+371985,"Lämmersieth (Nord), Hamburg",53.588914,10.061374,False,False
+611205,"Schlachthofstraße (Nord), Hamburg",53.462993,9.995483,False,False
+692054,"Eggerskamp, Hamburg",53.610713,10.156507,False,False
+692245,"Fabrik, Hamburg",53.556508,9.929548,False,False
+692312,"Niendorf Markt, Hamburg",53.619621,9.951463,True,False
+692478,"Armbruststraße, Hamburg",53.574217,9.93993,False,False
+692481,"Marlowring, Hamburg",53.573102,9.92535,False,False
+692503,"Goebenstraße, Hamburg",53.578082,9.962331,False,False
+692558,"Schillingsbekweg, Hamburg",53.595081,9.948344,False,False
+692756,"Bahrenfelder Straße, Hamburg",53.550422,9.928262,False,False
+692964,"Genslerstraße, Hamburg",53.592923,10.038182,False,False
+692969,"Habichtstraße (Mitte), Hamburg",53.591449,10.056044,False,False
+692998,"Harzensweg, Hamburg",53.591701,10.049904,False,False
+693002,"Bachstraße, Hamburg",53.57704,10.024851,False,False
+693006,"Großheidestraße, Hamburg",53.585391,10.027152,False,False
+693010,"Hermann-Kauffmann-Straße, Hamburg",53.594272,10.044079,False,False
+693118,"Kedenburgstraße, Hamburg",53.574999,10.08765,False,False
+693127,"Holzmühlenstraße, Hamburg",53.576698,10.082895,False,False
+693174,"Friedrich-Ebert-Damm (West), Hamburg",53.584752,10.078589,False,False
+693176,"Gladowstraße, Hamburg",53.579422,10.074903,False,False
+693179,"Stemmeshay, Hamburg",53.591692,10.130645,False,False
+693180,"Nordmarkstraße, Hamburg",53.581993,10.110393,False,False
+693188,"Wilsonstraße, Hamburg",53.587925,10.129423,False,False
+693199,"AK Wandsbek, Hamburg",53.568698,10.091344,False,False
+693224,"Mühlenhagen, Hamburg",53.536579,10.067451,False,False
+693235,"Meriandamm, Hamburg",53.552139,10.111094,False,False
+693243,"Bredowstraße (Mitte), Hamburg",53.524318,10.083838,False,False
+693248,"Moorfleeter Straße (Mitte), Hamburg",53.529711,10.094545,False,False
+693252,"Blaue Brücke, Hamburg",53.538889,10.083874,False,False
+693278,"Moorfleeter Straße (Nord), Hamburg",53.536058,10.098419,False,False
+693279,"Berzeliusstraße (Mitte), Hamburg",53.534143,10.097205,False,False
+693365,"Wilhelmsburger Platz, Hamburg",53.522862,10.016401,False,False
+693388,"Steinwerder, Hamburg",53.540121,9.966502,False,False
+693681,"Reeseberg, Hamburg",53.450669,9.987582,False,False
+694573,"Kurt-A.-Körber-Chaussee (Ost), Hamburg",53.488927,10.198361,False,False
+694622,"Mümmelmannsberg, Hamburg",53.528516,10.149945,True,False
+694661,"An der Schleemer Mühle, Hamburg",53.537262,10.115948,False,False
+694670,"Merkenstraße (U), Hamburg",53.538808,10.127328,True,False
+694671,"Oberschleems, Hamburg",53.538143,10.118914,False,False
+694674,"Steinfurther Allee (U), Hamburg",53.541002,10.138942,True,False
+694694,"Hans-Duncker-Straße (Mitte), Hamburg",53.490968,10.115894,False,False
+694713,"Mittlerer Landweg (Süd), Hamburg",53.488828,10.119076,False,False
+694720,"Billwerder (Feuerwehr), Hamburg",53.504551,10.135661,False,False
+694733,"Andreas-Meyer-Straße (West), Hamburg",53.522053,10.071883,False,False
+694767,"Moorfleeter Hauptdeich, Hamburg",53.500991,10.079218,False,False
+694876,"Osterbrookplatz, Hamburg",53.547105,10.057518,False,False
+702219,"IKEA Moorfleet, Hamburg",53.511445,10.096172,False,False
+705516,"Große Freiheit, Hamburg",53.551618,9.958349,False,False
+895300,"Kielmannseggstraße, Hamburg",53.573093,10.092342,False,False
+895350,"Fischauktionshalle, Hamburg",53.545146,9.951823,False,False
+895575,"Moorfleet (Feuerwehr), Hamburg",53.512057,10.086661,False,False
+895911,"Moorfleet (Halskestraße), Hamburg",53.512452,10.08872,False,False
+8001739,Hamburg Elbgaustraße,53.602928,9.892827,False,True
+8002553,Hamburg-Altona,53.552571,9.93486,False,True
+8002561,Hamburg-Wilhelmsburg,53.498914,10.006909,False,True
+8004661,Hamburg-Ohlsdorf,53.621051,10.03189,True,True
+161067,"Kroogblöcke, Hamburg",53.552436,10.097187,False,False
+161080,"Georg-Blume-Straße, Hamburg",53.562001,10.102122,False,False
+180988,"Eva-Rühmkorf-Straße, Hamburg",53.561371,9.94055,False,False
+180990,"Eimsbütteler Marktplatz, Hamburg",53.573228,9.946294,False,False
+368160,"Martensallee, Hamburg",53.590658,10.134043,False,False
+691079,"Stengelestraße, Hamburg",53.549182,10.090976,False,False
+692350,"Siemersplatz, Hamburg",53.599773,9.963877,False,False
+692380,"Oddernskamp, Hamburg",53.598677,9.952299,False,False
+692399,"Hudtwalckerstraße (U), Hamburg",53.594074,9.996355,True,False
+692400,"Maria-Louisen-Straße, Hamburg",53.586964,10.002522,False,False
+692406,"Brunsberg, Hamburg",53.594065,9.966682,False,False
+692411,"Kottwitzstraße, Hamburg",53.580725,9.964686,False,False
+692479,"Tiedemannstraße, Hamburg",53.579934,9.934986,False,False
+692482,"Rondenbarg, Hamburg",53.578415,9.919659,False,False
+692490,"Volksparkstraße, Hamburg",53.592177,9.928604,False,False
+692502,"Eidelstedter Weg, Hamburg",53.580896,9.957126,False,False
+692714,"Bahrenfeld (S), Hamburg",53.559915,9.910095,False,True
+692720,"Am Born, Hamburg",53.554387,9.92401,False,False
+692727,"Silcherstraße, Hamburg",53.568994,9.902706,False,False
+692753,"Große Brunnenstraße, Hamburg",53.5508,9.925592,False,False
+692989,"Langenfort, Hamburg",53.599665,10.050749,False,False
+692992,"Wachtelstraße, Hamburg",53.588267,10.052655,False,False
+693017,"Rübenkamp (S), Hamburg",53.607612,10.033238,False,True
+693022,"Stadtpark (Planetarium), Hamburg",53.59607,10.013884,False,False
+693024,"Maria-Louisen-Straße (Nord), Hamburg",53.591467,10.007295,False,False
+693028,"Sierichstraße (U), Hamburg",53.59055,10.002468,True,False
+693073,"Liliencronpark, Hamburg",53.600861,10.153064,False,False
+693112,"Farmsen, Hamburg",53.607297,10.117881,True,False
+693123,"Birtstraße, Hamburg",53.575404,10.092792,False,False
+693153,"Stephanstraße, Hamburg",53.586227,10.08587,False,False
+693173,"Tilsiter Straße, Hamburg",53.589328,10.078301,False,False
+693175,"Walddörferstraße, Hamburg",53.579718,10.080512,False,False
+693198,"Osterkamp, Hamburg",53.569659,10.100073,False,False
+693234,"Prinzenweg, Hamburg",53.554719,10.113467,False,False
+693244,"Feuerwehrakademie, Hamburg",53.526691,10.079694,False,False
+693250,"Berzeliusstraße (West), Hamburg",53.535734,10.088243,False,False
+693251,"Wöhlerstraße, Hamburg",53.5355,10.082823,False,False
+693366,"Veddel (S), Hamburg",53.520875,10.013327,False,True
+693651,"Maretstraße (Bürgerzentrum), Hamburg",53.452197,9.982782,False,False
+694357,"Vierlandenstraße, Hamburg",53.485601,10.209876,False,False
+694422,"Lohbrügger Kirchstraße, Hamburg",53.498654,10.202775,False,False
+694568,"Lehfeld, Hamburg",53.481134,10.208132,False,False
+694572,"Kurt-A.-Körber-Chaussee (Mitte), Hamburg",53.489134,10.19303,False,False
+694660,"Mehrenskamp, Hamburg",53.534458,10.121243,False,False
+694663,"Steinfurther Allee (Nord), Hamburg",53.541325,10.1379,True,False
+694687,"Allermöhe (Stellbrinkweg) (S), Hamburg",53.489799,10.159671,False,False
+694695,"Nettelnburg (S), Hamburg",53.488532,10.182046,False,True
+694696,"Billwerder Billdeich 318, Hamburg",53.501269,10.147491,False,False
+694712,"Moorfleeter Deich (Ost), Hamburg",53.484882,10.11611,False,False
+694721,"Billwerder Billdeich 174, Hamburg",53.509836,10.129378,False,False
+694766,"Tatenberger Schleuse, Hamburg",53.497755,10.077932,False,False
+702217,"Pinkertbrücke, Hamburg",53.527527,10.084683,False,False
+702531,"Mohnhof, Hamburg",53.486204,10.214011,False,False
+704980,"Unterer Landweg (Nord), Hamburg",53.526268,10.11059,False,False
+895229,"Högenstraße, Hamburg",53.580761,9.938519,False,False
+895291,"Harburg Rathaus (S), Hamburg",53.460602,9.98093,False,True
+895299,"Luetkensallee, Hamburg",53.574397,10.099192,False,False
+895358,"Liebigstraße (Mitte), Hamburg",53.532498,10.096217,False,False
+895763,"Porgesring, Hamburg",53.521477,10.098419,False,False
+8004719,Hamburg-Othmarschen,53.559268,9.886894,False,True
+8006749,Hamburg-Heimfeld,53.465394,9.963167,False,True
+8007044,Hamburg-Eidelstedt Zentrum,53.604196,9.898598,False,False
+111074,"Zeisehallen, Hamburg",53.554567,9.927453,False,False
+161060,"Am Horner Moor, Hamburg",53.554611,10.100361,False,False
+162049,"Am Neumarkt 63, Hamburg",53.575673,10.096666,False,False
+180118,"Platz der Arbeiterinnen, Hamburg",53.55836,9.938654,False,False
+371356,"Kneidenweg, Hamburg",53.500748,10.072431,False,False
+692313,"Joachim-Mähl-Straße, Hamburg",53.628701,9.950025,True,False
+692348,"Behrmannplatz, Hamburg",53.599099,9.957594,False,False
+692404,"Frickestraße, Hamburg",53.59731,9.979249,False,False
+692410,"Löwenstraße (Facharztklinik), Hamburg",53.587359,9.971527,False,False
+692414,"Lokstedter Weg, Hamburg",53.596609,9.983941,False,False
+692473,"Schnackenburgallee, Hamburg",53.592034,9.904306,False,False
+692493,"Langenfelder Damm (Kieler Straße), Hamburg",53.583458,9.933683,False,False
+692501,"Sorthmannweg, Hamburg",53.58344,9.956111,False,False
+692555,"Deelwisch, Hamburg",53.598757,9.941872,False,False
+692713,"Grünebergstraße, Hamburg",53.558072,9.914464,False,False
+692719,"Schützenstraße (Süd), Hamburg",53.560095,9.927435,False,False
+692728,"August-Kirch-Straße, Hamburg",53.571439,9.89769,False,False
+693011,"Neue Wöhr, Hamburg",53.598838,10.041697,False,False
+693023,"Winterhuder Marktplatz, Hamburg",53.594524,9.999762,False,False
+693075,"Altes Rathaus Rahlstedt, Hamburg",53.60229,10.159024,False,False
+693091,"Schweriner Straße, Hamburg",53.605014,10.162224,False,False
+693124,"Ölmühlenweg (Süd), Hamburg",53.579997,10.102401,False,False
+693126,"Eichtalstraße, Hamburg",53.577929,10.089151,False,False
+693181,"Paracelsusstraße, Hamburg",53.597436,10.131958,False,False
+693190,"Köpenicker Straße, Hamburg",53.584501,10.133288,False,False
+693203,"Universität der Bundeswehr, Hamburg",53.570495,10.105637,False,False
+693225,"Billbrookdeich, Hamburg",53.535887,10.076971,False,False
+693233,"Manshardtstraße, Hamburg",53.557308,10.115723,False,False
+693249,"Liebigstraße 30, Hamburg",53.534134,10.086859,False,False
+693560,"Wohlersweg, Hamburg",53.455236,10.00094,False,False
+693682,"Winsener Straße (Nord), Hamburg",53.445959,9.99098,False,False
+694407,"Kirchhofsweg, Hamburg",53.483732,10.220654,False,False
+694654,"Mümmelmannsberg (U), Hamburg",53.52697,10.149846,True,False
+694668,"Schlangenkoppel, Hamburg",53.543051,10.141576,False,False
+694679,"Sophie-Schoop-Weg, Hamburg",53.489386,10.163627,False,False
+694697,"Billwerder Billdeich 356, Hamburg",53.502285,10.153595,False,False
+694705,"Fockenweide, Hamburg",53.490357,10.179025,False,False
+694711,"Pumpwerk Allermöhe, Hamburg",53.481934,10.117988,False,False
+694722,"Billwerder Kirche, Hamburg",53.514358,10.127724,False,False
+694726,"Rote Brücke, Hamburg",53.530529,10.111813,False,False
+694729,"Billbrookdeich 210, Hamburg",53.534745,10.105008,False,False
+694765,"Tatenberger Damm, Hamburg",53.492514,10.067775,False,False
+694771,"Billwerder Bucht, Hamburg",53.522817,10.067694,False,False
+701203,"Überseezentrum, Hamburg",53.530844,10.019862,False,False
+705525,"Außenmühle, Hamburg",53.450534,9.981946,False,False
+895207,"Heckkaten, Hamburg",53.490096,10.189318,False,False
+895222,"Trabrennbahn Bahrenfeld, Hamburg",53.573687,9.892485,False,False
+895232,"Wagnerstraße, Hamburg",53.567259,10.040816,False,False
+895237,"Bargteheider Straße, Hamburg",53.613895,10.155491,False,False
+895351,"Sandberg, Hamburg",53.544364,9.94456,False,False
+895355,"Pinkertweg 12, Hamburg",53.526799,10.089645,False,False
+895652,"Am Schleusengraben, Hamburg",53.477313,10.206307,False,False
+895661,"Nettelnburg (Südeingang) (S), Hamburg",53.486482,10.179762,False,True
+895698,"Gewerbegebiet Moorfleet, Hamburg",53.504811,10.090661,False,False
+895774,"Sonnenweg (Mitte), Hamburg",53.590299,10.123346,False,False
+140200,"Theodor-Yorck-Straße, Hamburg",53.464108,9.98795,False,False
+180992,"Wiesingerweg, Hamburg",53.583638,9.961324,False,False
+364054,"Grandweg (Süd), Hamburg",53.585822,9.967581,False,False
+371785,"Eichbaumsee, Hamburg",53.487498,10.104711,False,False
+373950,"Oldenfelde, Hamburg",53.617365,10.128461,True,False
+374008,"Lattenkamp (U), Hamburg",53.600555,9.995088,True,False
+692246,"Forum Gymnasium Rahlstedt, Hamburg",53.600349,10.142646,False,False
+692314,"Schippelsweg, Hamburg",53.635398,9.952524,True,False
+692373,"Hudtwalckerstraße, Hamburg",53.594586,9.996077,True,False
+692386,"Ohlsdorf (Fuhlsbüttler Straße) (S+U), Hamburg",53.621168,10.033301,True,True
+692408,"Julius-Reincke-Stieg (Bethanien), Hamburg",53.591953,9.982925,False,False
+692416,"Schubackstraße, Hamburg",53.596807,9.9884,False,False
+692484,"Winsberg (Nord), Hamburg",53.576563,9.915237,False,False
+692511,"Hellgrundweg (Arenen), Hamburg",53.592789,9.89884,False,False
+692554,"Hagenbeck (Nordeingang), Hamburg",53.598092,9.936289,False,False
+692557,"Julius-Vosseler-Straße, Hamburg",53.590496,9.946879,False,False
+692600,"Elbgaustraße (S), Hamburg",53.603378,9.892917,False,True
+692746,"Rothestraße, Hamburg",53.547699,9.929062,False,False
+692751,"Kreuzkirche Ottensen, Hamburg",53.553856,9.916783,False,False
+692752,"Bleickenallee (Kinderkrankenhaus), Hamburg",53.551169,9.918365,False,False
+692962,"Lauensteinstraße, Hamburg",53.600115,10.036061,False,False
+692971,"Maybachstraße, Hamburg",53.598137,10.056313,False,False
+693012,"Hartzloh, Hamburg",53.601877,10.040852,False,False
+693016,"Hebebrandstraße, Hamburg",53.608349,10.038686,False,False
+693020,"Jahnring (Mitte), Hamburg",53.599836,10.013687,False,False
+693050,"Sandkule, Hamburg",53.607405,10.149846,False,False
+693122,"Ziethenstraße, Hamburg",53.576806,10.102509,False,False
+693125,"Kurfürstenstraße, Hamburg",53.579089,10.096999,False,False
+693143,"Farmsen (U), Hamburg",53.607135,10.117521,True,False
+693152,"Helbingtwiete, Hamburg",53.587683,10.092891,False,False
+693155,"Tilsiter Straße (Mitte), Hamburg",53.590676,10.08436,False,False
+693171,"Haldesdorfer Straße, Hamburg",53.596663,10.072278,False,False
+693184,"Wilhelm-Grimm-Straße, Hamburg",53.600169,10.156175,False,False
+693187,"Am Pulverhof, Hamburg",53.59287,10.137441,False,False
+693194,"Schimmelmannstraße (Mitte), Hamburg",53.572887,10.10463,False,False
+693232,"Fuchsbergredder, Hamburg",53.560562,10.118492,False,False
+693269,"Böcklerstraße, Hamburg",53.563439,10.107687,False,False
+693378,"Wilhelmsburg (S), Hamburg",53.497431,10.006972,False,True
+693387,"Arningstraße, Hamburg",53.537047,9.9852,False,False
+693395,"Steinwerder (Fähre), Hamburg",53.53986,9.965945,False,False
+693520,"Harburger Chaussee, Hamburg",53.520776,10.007592,False,False
+693559,"Großmoorbogen, Hamburg",53.453033,10.006046,False,False
+693606,"Oststeinbeker Weg (Mitte), Hamburg",53.538602,10.140452,False,False
+694261,"Rungedamm (West), Hamburg",53.497179,10.097538,False,False
+694381,"Zu den Eichen, Hamburg",53.485251,10.220519,False,False
+694406,"Unterm Heilbrunnen, Hamburg",53.481673,10.225329,False,False
+694413,"Am Güterbahnhof, Hamburg",53.485233,10.201822,False,False
+694604,"Oberer Landweg (Eisenbahnbrücke), Hamburg",53.487768,10.185713,False,False
+694645,"Münterweg, Hamburg",53.527464,10.144677,False,False
+694659,"Steinbeker Marktstraße, Hamburg",53.532543,10.127301,False,False
+694672,"Öjendorfer Steinkamp, Hamburg",53.539743,10.133207,False,False
+694689,"Billstieg (Kehre), Hamburg",53.533568,10.109512,False,False
+694693,"Wilhelm-Iwan-Ring, Hamburg",53.49095,10.10953,False,False
+694704,"Friedrich-Frank-Bogen (Mitte), Hamburg",53.492271,10.177902,False,False
+694710,"Allermöher Deich 75, Hamburg",53.482922,10.124551,False,False
+694723,"Glockenhausbrücke, Hamburg",53.517306,10.123742,False,False
+694764,"Spadenländer Ecke, Hamburg",53.491336,10.065123,False,False
+694776,"Halskestraße (West), Hamburg",53.525945,10.074301,False,False
+694993,"Ohlsdorf, Hamburg",53.620925,10.031368,True,True
+701199,"Terminal O'Swaldkai, Hamburg",53.529028,10.013075,False,False
+895046,"Oststeinbeker Weg (West), Hamburg",53.535725,10.131355,False,False
+895257,"Neuland, Hamburg",53.463353,10.000778,False,False
+895349,"Niendorf Markt (U), Hamburg",53.619109,9.952173,True,False
+895357,"Pinkertweg (Mitte), Hamburg",53.526242,10.092783,False,False
+895611,"Dockland (Fischereihafen), Hamburg",53.543078,9.935813,False,False
+895697,"Schleemer Weg (Nord), Hamburg",53.542449,10.114968,False,False
+895773,"Gyula-Trebitsch-Schule, Hamburg",53.595405,10.121548,False,False
+895815,"Ohlsdorf (Im Grünen Grunde) (S+U), Hamburg",53.620772,10.030973,True,True
+895835,"Sachsenbrücke, Hamburg",53.527491,10.016815,False,False
+895863,"Rehkoppel, Hamburg",53.560347,10.119669,False,False
+895866,"Große Elbstraße, Hamburg",53.544121,9.942519,False,False
+896000,"Öjendorfer Höhe, Hamburg",53.542161,10.127589,False,False
+896041,"Dernauer Straße, Hamburg",53.58068,10.086319,False,False
+8002909,Hamburg-Hörgensweg,53.612484,9.902319,False,False
+8003312,Hamburg Klein Flottbek,53.558189,9.860609,False,True
+608001739,Hamburg Elbgaustr.,53.603225,9.8928,False,False
+140210,"Marktkanal, Hamburg",53.5275,10.02548,False,False
+184060,"Langenfelder Damm, Hamburg",53.583449,9.933611,False,False
+379036,"Billbrookdeich (Ost), Hamburg",53.531006,10.111255,False,False
+692349,"Offakamp, Hamburg",53.598641,9.971527,False,False
+692351,"Nedderfeld, Hamburg",53.603234,9.961981,False,False
+692378,"Ohlsdorf (Alsterdorfer Straße) (S+U), Hamburg",53.619729,10.032492,True,True
+692383,"Eppendorfer Park (UKE), Hamburg",53.590083,9.978593,False,False
+692389,"Kapstadtring, Hamburg",53.605436,10.025256,False,False
+692390,"Manilabrücke, Hamburg",53.607099,10.022424,False,False
+692409,"UK Eppendorf, Hamburg",53.588896,9.975761,False,False
+692485,"Winsberg (West), Hamburg",53.575404,9.9129,False,False
+692500,"Veilchenweg (West), Hamburg",53.588779,9.957603,False,False
+692544,"Furtweg, Hamburg",53.605886,9.899209,False,False
+692553,"Informatikum, Hamburg",53.597679,9.931822,False,False
+692610,"Luruper Chaussee (DESY), Hamburg",53.576293,9.888853,False,False
+692712,"Daimlerstraße, Hamburg",53.556041,9.921475,False,False
+692718,"Friedensallee, Hamburg",53.555358,9.926698,False,False
+692732,"Othmarschen (S), Hamburg",53.558998,9.887199,False,True
+692988,"Richeystraße, Hamburg",53.603234,10.051684,False,False
+693013,"AK Barmbek, Hamburg",53.604951,10.039989,False,False
+693019,"Überseering (West), Hamburg",53.600474,10.017156,False,False
+693069,"Haffkruger Weg, Hamburg",53.609104,10.150206,False,False
+693076,"Buchwaldstraße, Hamburg",53.599405,10.162665,False,False
+693121,"Heinrich-Helbing-Straße, Hamburg",53.594919,10.060808,False,False
+693128,"Birkenallee, Hamburg",53.600097,10.137441,False,False
+693144,"Rahlstedter Weg (Mitte), Hamburg",53.602641,10.127733,False,False
+693177,"Werner-Otto-Straße (Mitte), Hamburg",53.599935,10.069824,False,False
+693185,"Brockdorffstraße, Hamburg",53.596465,10.152534,False,False
+693204,"Am Hohen Feld, Hamburg",53.571026,10.115588,False,False
+693205,"Schiffbeker Weg, Hamburg",53.570927,10.124703,False,False
+693211,"Berliner Platz, Hamburg",53.583988,10.141504,False,False
+693219,"Reinskamp, Hamburg",53.544328,10.127238,False,False
+693222,"Aschenputtelstraße, Hamburg",53.562477,10.119642,False,False
+693238,"Spliedtring, Hamburg",53.562504,10.108658,False,False
+693271,"Rudolf-Roß-Allee, Hamburg",53.558351,10.10303,False,False
+693433,"Sonnenland, Hamburg",53.536768,10.134699,False,False
+693521,"Werkcentrum Elbinsel, Hamburg",53.519949,9.999627,False,False
+693550,"Neuländer Hauptdeich, Hamburg",53.47014,9.994863,False,False
+693551,"Neuländer Weg, Hamburg",53.46293,10.004437,False,False
+693558,"Großmoordamm 121, Hamburg",53.451703,10.009264,False,False
+693683,"Freudenthalweg, Hamburg",53.438669,9.987357,False,False
+693725,"Heimfeld (S), Hamburg",53.465259,9.962502,False,True
+693854,"Schellerdamm, Hamburg",53.465933,9.986845,False,False
+694260,"Hermann-Wüsthof-Ring (West), Hamburg",53.497386,10.101673,False,False
+694382,"St.-Michael-Kirche, Hamburg",53.483282,10.225059,False,False
+694405,"An der Pollhofsbrücke, Hamburg",53.479704,10.231145,False,False
+694419,"Ulmenliet, Hamburg",53.495229,10.202622,False,False
+694423,"Sanmannreihe, Hamburg",53.49789,10.208132,False,False
+694551,"Rahel-Varnhagen-Weg, Hamburg",53.48801,10.174405,False,False
+694574,"Wiesnerring, Hamburg",53.482572,10.200087,False,False
+694630,"Havighorster Redder (West), Hamburg",53.527446,10.135598,False,False
+694640,"Grandkoppel, Hamburg",53.503921,10.191062,False,False
+694651,"Boberg, Hamburg",53.514421,10.167312,False,False
+694653,"Steinbeker Grenzdamm, Hamburg",53.524111,10.150089,False,False
+694658,"Kirchsteinbek, Hamburg",53.529864,10.129207,False,False
+694667,"Oststeinbek Willinghusener Weg, Hamburg",53.542845,10.1523,False,False
+694691,"Werner-Witt-Straße (Süd), Hamburg",53.493737,10.106545,False,False
+694699,"Boberger Furtweg, Hamburg",53.506546,10.163932,False,False
+694703,"Friedrich-Frank-Bogen (Nord), Hamburg",53.494114,10.179654,False,False
+694724,"Maler- und Lackierer-Museum, Hamburg",53.521477,10.118779,False,False
+694727,"Schule Billbrookdeich, Hamburg",53.532885,10.111022,False,False
+694728,"Billstieg, Hamburg",53.534098,10.10846,False,False
+694763,"Beim Bieberhof, Hamburg",53.48535,10.072161,False,False
+699576,"Billwiese, Hamburg",53.491229,10.188446,False,False
+699690,"Langbargheide (Süd), Hamburg",53.593175,9.891262,False,False
+701162,"Veddel (Westseite) (S), Hamburg",53.523149,10.0117,False,True
+895001,"Sandwisch, Hamburg",53.515041,10.074741,False,False
+895186,"Eidelstedt Zentrum (Bus), Hamburg",53.610201,9.901142,False,False
+895228,"Loher Straße, Hamburg",53.593966,10.144974,False,False
+895258,"Griegstraße, Hamburg",53.554387,9.909807,False,False
+895287,"Harburg Rathaus (Eißendorfer Straße) (S), Hamburg",53.460503,9.976786,False,True
+895289,"Harburg Rathaus (Hölertwiete) (S), Hamburg",53.461393,9.982,False,True
+895696,"Liebezeitstraße, Hamburg",53.5428,10.118708,False,False
+895834,"Celsiusweg, Hamburg",53.560059,9.920271,False,False
+895876,"Inselpark, Hamburg",53.496865,10.006226,False,False
+896040,"Iversstraße, Hamburg",53.581732,10.093637,False,False
+113090,"Arnswalder Straße, Hamburg",53.613671,10.151464,False,False
+122052,"Strietkoppel, Hamburg",53.528579,10.153801,False,False
+211075,"Lisbeth-Bruhn-Straße, Hamburg",53.485332,10.17293,False,False
+370984,"Moorfleeter Deich 427, Hamburg",53.487606,10.094922,False,False
+371857,"Moorfleeter Brückenstraße, Hamburg",53.501072,10.081178,False,False
+692052,"Leunastraße, Hamburg",53.565461,9.9257,False,False
+692315,"Niendorf Nord, Hamburg",53.641097,9.949971,True,False
+692341,"Fuhlsbütteler Weg, Hamburg",53.6223,9.954807,False,False
+692376,"Sengelmannstraße (U), Hamburg",53.608906,10.022047,True,False
+692377,"Im Grünen Grunde, Hamburg",53.623055,10.031521,False,False
+692382,"Dakarweg, Hamburg",53.602785,10.025301,False,False
+692398,"Lattenkampstieg, Hamburg",53.597508,9.996967,False,False
+692415,"Lattenkamp (Sporthalle), Hamburg",53.599899,9.994674,True,False
+692483,"Winsberg (Süd), Hamburg",53.57446,9.917592,False,False
+692491,"Basselweg, Hamburg",53.587404,9.93193,False,False
+692601,"Fangdieckstraße, Hamburg",53.601346,9.889546,False,False
+692607,"Stadionstraße, Hamburg",53.580518,9.884476,False,False
+692687,"Röpers Weide, Hamburg",53.557272,9.89297,False,False
+692688,"Susettestraße, Hamburg",53.546458,9.925341,False,False
+692726,"Kreuzfahrtterminal Altona, Hamburg",53.544193,9.936397,False,False
+692731,"Böcklinstraße, Hamburg",53.562971,9.887127,False,False
+692733,"Emkendorfstraße, Hamburg",53.555609,9.890651,False,False
+692734,"Klein Flottbek (S), Hamburg",53.558432,9.861562,False,True
+692745,"Fischers Allee, Hamburg",53.548211,9.922194,False,False
+692897,"Ohlsdorf Hauptfriedhof Haupteingang, Hamburg",53.620547,10.034353,False,False
+692972,"Hellbrookkamp, Hamburg",53.597616,10.060583,False,False
+693046,"Berne, Hamburg",53.626912,10.139751,True,False
+693092,"Sieker Landstraße, Hamburg",53.605688,10.167384,False,False
+693130,"Scharbeutzer Straße, Hamburg",53.599827,10.131418,False,False
+693151,"Am Stadtrand, Hamburg",53.588887,10.098868,False,False
+693157,"Voßkulen, Hamburg",53.594164,10.086104,False,False
+693182,"Rübezahlstraße, Hamburg",53.564275,10.120685,False,False
+693191,"Kuehnstraße, Hamburg",53.582244,10.126555,False,False
+693210,"Liegnitzer Straße, Hamburg",53.580186,10.137657,False,False
+693220,"Berzeliusstraße 42, Hamburg",53.534601,10.09467,False,False
+693231,"Friedhof Öjendorf (Haupteingang), Hamburg",53.55729,10.121863,False,False
+693270,"Dannerallee, Hamburg",53.559043,10.10864,False,False
+693355,"Georgswerder Damm, Hamburg",53.526727,10.026415,False,False
+693390,"Argentinienbrücke, Hamburg",53.52821,9.976085,False,False
+693525,"Dratelnstraße, Hamburg",53.498501,9.999681,False,False
+693549,"Schöpfwerk Neuland, Hamburg",53.469169,10.00076,False,False
+693557,"Großmoordamm 181, Hamburg",53.448799,10.017714,False,False
+693650,"Freizeitbad MidSommerland, Hamburg",53.447748,9.980903,False,False
+693657,"Mensingstraße, Hamburg",53.442732,9.996985,False,False
+693684,"Am Frankenberg, Hamburg",53.436358,9.985514,False,False
+693845,"Kanalplatz, Hamburg",53.466553,9.984121,False,False
+694384,"Hoffmann-von-Fallersleben-Straße, Hamburg",53.481961,10.229967,False,False
+694420,"Höperfeld, Hamburg",53.495867,10.199125,False,False
+694424,"Lohbrügger Weg, Hamburg",53.501584,10.205723,False,False
+694427,"Bornmühlenweg, Hamburg",53.499355,10.210541,False,False
+694575,"Fiddigshagen, Hamburg",53.479075,10.197525,False,False
+694636,"An der Bergkoppel, Hamburg",53.500667,10.198792,False,False
+694678,"Margit-Zinke-Straße (Nord), Hamburg",53.488792,10.166036,False,False
+694680,"Karl-Rüther-Stieg, Hamburg",53.489673,10.153343,False,False
+694686,"Von-Scheliha-Straße, Hamburg",53.485448,10.162782,False,False
+694688,"Hermann-Wüsthof-Ring (Ost), Hamburg",53.493287,10.111202,False,False
+694702,"Billwerder Billdeich (Ost), Hamburg",53.4962,10.179816,False,False
+694709,"Allermöher Kirche, Hamburg",53.482158,10.129306,False,False
+694717,"Rungedamm (Nord), Hamburg",53.499669,10.105583,False,False
+694725,"Billwerder Billdeich (West), Hamburg",53.523086,10.113089,False,False
+694762,"Fasanengrund, Hamburg",53.480127,10.076009,False,False
+694775,"Halskestraße (Mitte), Hamburg",53.520461,10.084468,False,False
+701191,"Max-Tau-Straße, Hamburg",53.592267,9.951086,False,False
+701200,"Arningstraße (Fähre), Hamburg",53.537145,9.984571,False,False
+702209,"Mattkamp, Hamburg",53.54582,10.126474,False,False
+895167,"Klein Borstel, Hamburg",53.62826,10.03322,True,False
+895342,"Reimboldweg, Hamburg",53.482653,10.227288,False,False
+895564,"Hamburger Kamp, Oststeinbek",53.54226,10.157002,False,False
+895862,"Rispengrasweg, Hamburg",53.560859,10.126636,False,False
+895949,"Breitenfelder Straße, Hamburg",53.587134,9.975491,False,False
+895998,"Archenholzstraße (Ost), Hamburg",53.544633,10.125494,False,False
+8002873,Hamburg Hochkamp,53.561326,9.842208,False,True
+8003410,Hamburg Kornweg(Klein Borstel),53.632305,10.053662,False,True
+113088,"Stoppelfeld, Hamburg",53.612133,10.147572,False,False
+123085,"Am Schilfpark, Hamburg",53.479758,10.204635,False,False
+219029,"Hafenmuseum, Hamburg",53.525163,10.000077,False,False
+222053,"Am Mühlenbach, Hamburg",53.531006,10.15435,False,False
+367958,"Vorhornweg, Hamburg",53.592492,9.881761,False,False
+371571,"Hamburger Straße, Ahrensburg",53.671238,10.235972,False,False
+374483,"Moorfleeter Deich 380, Hamburg",53.492199,10.092297,False,False
+692055,"Bullenkoppel, Hamburg",53.595288,10.09147,False,False
+692340,"Helvetierweg, Hamburg",53.626957,9.959014,False,False
+692345,"Vogt-Cordes-Damm, Hamburg",53.613859,9.951868,False,False
+692488,"Lederstraße, Hamburg",53.589588,9.907425,False,False
+692499,"Lohkoppelweg, Hamburg",53.592177,9.954196,False,False
+692547,"BAB-Auffahrt Stellingen, Hamburg",53.5966,9.922212,False,False
+692551,"Jütländer Allee, Hamburg",53.601409,9.931336,False,False
+692599,"Katzbachstraße, Hamburg",53.601095,9.884314,False,False
+692602,"Langbargheide (Nord), Hamburg",53.598883,9.886939,False,False
+692690,"Regerstraße (Ost), Hamburg",53.571062,9.916918,False,False
+692730,"Ebertallee, Hamburg",53.567844,9.888539,False,False
+692749,"Behringstraße (AK Altona), Hamburg",53.557039,9.900782,False,False
+692773,"Hohenzollernring (Süd), Hamburg",53.546036,9.91574,False,False
+692973,"Buschrosenweg, Hamburg",53.601643,10.062552,False,False
+692985,"Eichenlohweg, Hamburg",53.607944,10.044475,False,False
+692987,"Schwarzer Weg, Hamburg",53.606371,10.055693,False,False
+693021,"Ohlsdorfer Straße (Planetarium), Hamburg",53.598955,10.005731,False,False
+693051,"Redderblock, Hamburg",53.615999,10.152264,False,False
+693077,"Amtsstraße, Hamburg",53.596438,10.163366,False,False
+693093,"Prehnsweg, Hamburg",53.604618,10.174692,False,False
+693120,"Bauernrosenweg, Hamburg",53.598398,10.065824,False,False
+693129,"Kohövedstraße, Hamburg",53.60878,10.144336,False,False
+693142,"Berufsförderungswerk, Hamburg",53.611828,10.115471,False,False
+693145,"Eissporthalle, Hamburg",53.604142,10.11966,False,False
+693146,"Eckerkoppel, Hamburg",53.599998,10.118051,False,False
+693147,"Pulverhofsweg, Hamburg",53.598749,10.123247,False,False
+693150,"Sylter Weg, Hamburg",53.590218,10.104945,False,False
+693183,"Pflegezentrum Holstenhof, Hamburg",53.567942,10.122915,False,False
+693192,"Albert-Schweitzer-Ring, Hamburg",53.579431,10.123112,False,False
+693209,"Schweidnitzer Straße, Hamburg",53.577058,10.135976,False,False
+693230,"Friedhof Öjendorf (Feierhallen), Hamburg",53.556868,10.12642,False,False
+693374,"Neuenfelder Straße (Schule), Hamburg",53.493575,10.01294,False,False
+693398,"Norderloch, Hamburg",53.537406,9.967347,False,False
+693522,"Vogelhüttendeich, Hamburg",53.515931,9.99338,False,False
+693526,"Rathaus Wilhelmsburg, Hamburg",53.499364,9.996679,False,False
+693548,"Neuländer Elbdeich 76, Hamburg",53.468153,10.006549,False,False
+693552,"Großmoorbogen (Neuländer See), Hamburg",53.460279,10.010792,False,False
+693556,"Kanzlershofer Weg, Hamburg",53.44782,10.023413,False,False
+693685,"Buchholzer Weg, Hamburg",53.431702,9.983501,False,False
+693729,"Eißendorfer Straße (TU, Hamburg",53.459119,9.970448,False,False
+693849,"Seehafenbrücke (Amtsgericht), Hamburg",53.46409,9.980561,False,False
+694385,"Justus-Brinckmann-Straße, Hamburg",53.481376,10.232088,False,False
+694404,"Pollhof, Hamburg",53.473412,10.230677,False,False
+694425,"Plettenbergstraße, Hamburg",53.504712,10.203566,False,False
+694428,"Goerdelerstraße, Hamburg",53.50144,10.210919,False,False
+694543,"Von-Haeften-Straße, Hamburg",53.486815,10.165362,False,False
+694552,"Henriette-Herz-Ring, Hamburg",53.4841,10.172103,False,False
+694598,"Nettelnburger Straße, Hamburg",53.476297,10.195979,False,False
+694637,"Emilie-Günther-Weg, Hamburg",53.502465,10.194774,False,False
+694642,"BG Klinikum Boberg, Hamburg",53.507598,10.180176,False,False
+694657,"Schule Mümmelmannsberg, Hamburg",53.529864,10.141369,False,False
+694664,"Haseneck, Hamburg",53.529891,10.137486,False,False
+694677,"Auf der Bojewiese, Hamburg",53.496865,10.177704,False,False
+694684,"Curt-Bär-Weg, Hamburg",53.48401,10.158719,False,False
+694690,"Werner-Witt-Straße (Nord), Hamburg",53.496712,10.112577,False,False
+694692,"Rungedamm (Mitte), Hamburg",53.498932,10.110159,False,False
+694700,"Bojendamm, Hamburg",53.502654,10.17071,False,False
+694761,"Schwersweg, Hamburg",53.477511,10.077582,False,False
+697063,"Baron-Voght-Straße (Mitte), Hamburg",53.554953,9.865113,False,False
+705522,"Algermissenstraße, Hamburg",53.497215,10.011745,False,False
+895133,"Riehlstraße, Hamburg",53.497296,10.196905,False,False
+895208,"Otto-Grot-Straße, Hamburg",53.488658,10.147563,False,False
+895239,"Niendorfer Straße, Hamburg",53.610821,9.957324,False,False
+895253,"Werner-Otto-Straße, Hamburg",53.601265,10.068799,False,False
+895280,"Fuhlsbüttel, Hamburg",53.632575,10.02655,True,False
+895288,"Knoopstraße/Bremer Straße, Hamburg",53.457339,9.979573,False,False
+895381,"Gaußstraße, Hamburg",53.558396,9.928199,False,False
+895619,"Rahlstedt Center, Hamburg",53.60425,10.158341,False,False
+895793,"Händelstraße, Hamburg",53.562261,9.905645,False,False
+895861,"Fuchsbergweg, Hamburg",53.562378,10.132506,False,False
+895907,"Otto-Hahn-Schule Jenfeld, Hamburg",53.579467,10.12802,False,False
+895977,"Harburger Schloßstraße, Hamburg",53.465079,9.983321,False,False
+895996,"Hein-Baxmann-Stieg, Hamburg",53.512964,10.083668,False,False
+895999,"Salomon-Petri-Ring, Hamburg",53.546647,10.132173,False,False
+896039,"Ölmühlenweg (Nord), Hamburg",53.584537,10.100459,False,False
+8002547,Hamburg Airport,53.63271,10.00672,False,True
+8006750,Hamburg Neuwiedenthal,53.473061,9.877473,False,True
+8007045,Hamburg-Schnelsen,53.633833,9.906589,False,False
+113089,"Am Kroog, Hamburg",53.6095,10.141136,False,False
+223081,"Gertrud-Seele-Kehre, Hamburg",53.480594,10.173326,False,False
+340212,"Stenzelring, Hamburg",53.517774,10.000329,False,False
+370958,"Moorfleeter Deich 344, Hamburg",53.495669,10.091389,False,False
+692067,"Marie-Henning-Weg, Hamburg",53.484523,10.154287,False,False
+692324,"Jägerlauf, Hamburg",53.603072,9.967734,False,False
+692339,"Krähenweg, Hamburg",53.630462,9.962115,False,False
+692343,"Bindfeldweg, Hamburg",53.622444,9.941593,False,False
+692366,"Nedderfeld (Kehre), Hamburg",53.603872,9.963005,False,False
+692391,"Sydneystraße, Hamburg",53.605392,10.017777,False,False
+692397,"Braamkamp, Hamburg",53.601589,9.996805,False,False
+692487,"Am Volkspark, Hamburg",53.585507,9.908288,False,False
+692532,"Pflugacker, Hamburg",53.61368,9.898346,False,False
+692539,"Lohkampstraße 45, Hamburg",53.609913,9.898912,False,False
+692543,"Eidelstedter Platz, Hamburg",53.608178,9.904602,False,False
+692546,"Wördemanns Weg, Hamburg",53.599728,9.91725,False,False
+692552,"Wegenkamp, Hamburg",53.599,9.925583,False,False
+692598,"Franzosenkoppel, Hamburg",53.600879,9.880188,False,False
+692603,"Lüdersring, Hamburg",53.596996,9.885446,False,False
+692691,"Friedhof Holstenkamp, Hamburg",53.571745,9.913169,False,False
+692696,"Stutsmoor, Hamburg",53.572779,9.887065,False,False
+692709,"Langkamp, Hamburg",53.563025,9.864825,False,False
+692715,"Bahrenfelder Marktplatz, Hamburg",53.564464,9.90178,False,False
+692735,"Marxsenweg, Hamburg",53.554827,9.866605,False,False
+692739,"Reventlowstraße, Hamburg",53.5524,9.89057,False,False
+692740,"Agathe-Lasch-Weg, Hamburg",53.55267,9.89449,False,False
+692744,"Hohenzollernring, Hamburg",53.548643,9.916306,False,False
+692769,"Neumühler Kirchenweg, Hamburg",53.544759,9.925682,False,False
+692840,"Meiendorfer Weg, Hamburg",53.638804,10.156121,True,False
+692905,"Brombeerweg (West), Hamburg",53.628278,10.026523,False,False
+692974,"Fabriciusstraße (Mitte), Hamburg",53.604978,10.066031,False,False
+692976,"Gustav-Seitz-Weg, Hamburg",53.608655,10.063469,False,False
+692984,"Gründgensstraße (West), Hamburg",53.611477,10.045787,False,False
+693015,"Schmuckshöhe, Hamburg",53.611783,10.036861,False,False
+693048,"Berne (Kriegkamp) (U), Hamburg",53.626211,10.139625,True,False
+693064,"Gerstenwiese, Hamburg",53.618363,10.1604,False,False
+693078,"Theodor-Storm-Straße, Hamburg",53.593067,10.160795,False,False
+693094,"Hoffmannstieg, Hamburg",53.603306,10.179798,False,False
+693114,"Swebenhöhe, Hamburg",53.60976,10.108586,False,False
+693117,"Tegelweg, Hamburg",53.605904,10.106833,False,False
+693141,"Pflegezentrum Farmsen, Hamburg",53.613716,10.114869,False,False
+693149,"Rentenversicherung Nord, Hamburg",53.592114,10.108712,False,False
+693158,"Barmwisch, Hamburg",53.597068,10.091713,False,False
+693193,"Am Jenfelder Moor, Hamburg",53.576509,10.113799,False,False
+693206,"Denksteinweg, Hamburg",53.571125,10.13131,False,False
+693212,"Potsdamer Straße, Hamburg",53.585894,10.148624,False,False
+693229,"Friedhof Öjendorf (Süd-Ring), Hamburg",53.554207,10.123535,False,False
+693268,"Gymnasium Marienthal, Hamburg",53.566351,10.107129,False,False
+693350,"Kirchdorfer Straße (Museum Elbinsel), Hamburg",53.490986,10.019044,False,False
+693357,"Hovestraße 44, Hamburg",53.5227,10.030416,False,False
+693367,"Fiskalische Straße (Energieberg), Hamburg",53.516174,10.020428,False,False
+693373,"Thielenstraße (Ost), Hamburg",53.500955,10.013462,False,False
+693397,"Steinwerder (Alter Elbtunnel), Hamburg",53.541433,9.9659,False,False
+693547,"Wendts Weg, Hamburg",53.468585,10.011925,False,False
+693553,"Großmoorring, Hamburg",53.456629,10.008626,False,False
+693686,"Rönneburger Kirchweg, Hamburg",53.428475,9.982215,False,False
+693724,"Kasernenstraße (TU, Hamburg",53.463856,9.969648,False,False
+693843,"Süderelbe (Süd), Hamburg",53.470158,9.993964,False,False
+693848,"Unterelbestraße, Hamburg",53.466724,9.972076,False,False
+693851,"Harburger Ring, Hamburg",53.458211,9.984606,False,False
+694358,"Eschenhofweg, Hamburg",53.47138,10.232619,False,False
+694378,"August-Bebel-Straße, Hamburg",53.483183,10.233931,False,False
+694426,"Heidkampsredder, Hamburg",53.506762,10.199287,False,False
+694429,"Binnenfeldredder, Hamburg",53.503652,10.210631,False,False
+694431,"Sterntwiete, Hamburg",53.504164,10.214191,False,False
+694588,"Hilda-Monte-Weg, Hamburg",53.482383,10.170396,False,False
+694599,"Katendeich, Hamburg",53.476801,10.192078,False,False
+694628,"Schulredder, Hamburg",53.514187,10.162377,False,False
+694655,"Feiningerstraße, Hamburg",53.529747,10.148309,False,False
+694656,"Max-Klinger-Straße, Hamburg",53.52981,10.144363,False,False
+694669,"Rahewinkel, Hamburg",53.522754,10.155249,False,False
+694682,"Adolf-Köster-Damm, Hamburg",53.485395,10.146943,False,False
+694701,"Bojeweg, Hamburg",53.500532,10.174827,False,False
+694708,"Allermöher Deich 187, Hamburg",53.476055,10.14056,False,False
+694759,"Elversweg, Hamburg",53.473655,10.079425,False,False
+701144,"Vogelreth, Hamburg",53.532498,9.98182,False,False
+701202,"Indiastraße, Hamburg",53.526781,9.994522,False,False
+895145,"Harmsstraße, Hamburg",53.454768,9.976184,False,False
+895187,"Arenen, Hamburg",53.588582,9.899353,False,False
+895190,"Sengelmannstraße (City Nord), Hamburg",53.609302,10.022002,True,False
+895234,"Krieterstraße, Hamburg",53.496334,10.009444,False,False
+895236,"Höpenstraße, Hamburg",53.441689,10.00343,False,False
+895244,"Oldenburger Straße, Hamburg",53.605571,9.929071,False,False
+895284,"Rahnstraße, Hamburg",53.605661,10.07093,False,False
+895772,"Friedrich-Ebert-Damm (Nord), Hamburg",53.599656,10.113512,False,False
+895860,"Hans-Rubbert-Straße, Hamburg",53.565372,10.132623,False,False
+895950,"UK Eppendorf (Haupteingang), Hamburg",53.589463,9.974772,False,False
+896038,"Marner Straße, Hamburg",53.58682,10.104037,False,False
+8002946,Hamburg Hoheneichen,53.635371,10.067298,False,True
+8071182,Hamburg Klein Borstel U-Bahnhof,53.627892,10.034164,True,False
+223093,"Energie-Campus Bergedorf, Hamburg",53.477151,10.20379,False,False
+240213,"Schlenzigstraße, Hamburg",53.514753,10.001803,False,False
+374081,"Felix-Jud-Ring (Mitte), Hamburg",53.481295,10.153873,False,False
+692325,"Nedderfeld Center, Hamburg",53.601688,9.973999,False,False
+692326,"Niendorf Nord (U), Hamburg",53.640315,9.949611,True,False
+692327,"Vielohweg (Mitte), Hamburg",53.638526,9.94518,False,False
+692333,"An der Lohe, Hamburg",53.623846,9.952641,False,False
+692342,"Freizeitbad Bondenwald, Hamburg",53.626157,9.937152,False,False
+692360,"Orchideenstieg, Hamburg",53.602668,9.990234,False,False
+692385,"Maienweg, Hamburg",53.619316,10.022775,False,False
+692388,"Stiftung Alsterdorf, Hamburg",53.614695,10.021615,False,False
+692486,"BAB-Auffahrt Volkspark, Hamburg",53.580626,9.918005,False,False
+692531,"Furchenacker, Hamburg",53.61697,9.897114,False,False
+692538,"Niekampsweg, Hamburg",53.611163,9.895362,False,False
+692549,"Niendorfer Gehege, Hamburg",53.609985,9.926626,False,False
+692571,"Baumläuferweg, Hamburg",53.604349,9.876574,False,False
+692597,"Jevenstedter Straße, Hamburg",53.600483,9.873985,False,False
+692604,"Farnhornweg, Hamburg",53.593571,9.88292,False,False
+692605,"Rugenbarg (Nord), Hamburg",53.588474,9.876197,False,False
+692606,"Tannenberg, Hamburg",53.584087,9.880718,False,False
+692701,"Hochkamp (S), Hamburg",53.56121,9.842676,False,True
+692710,"Hemmingstedter Weg, Hamburg",53.566261,9.866416,False,False
+692738,"Bernadottestraße, Hamburg",53.548634,9.890058,False,False
+692748,"AK Altona (Eingang), Hamburg",53.555034,9.898247,False,False
+692755,"Zum Hünengrab (DESY), Hamburg",53.572158,9.881249,False,False
+692906,"Heinrich-Traun-Platz, Hamburg",53.633474,10.034398,False,False
+692975,"Owiesenstraße, Hamburg",53.606443,10.067065,False,False
+692977,"Fabriciusstraße, Hamburg",53.608538,10.067451,False,False
+692983,"Fritz-Flinte-Ring, Hamburg",53.610614,10.049347,False,False
+693014,"Feuerbergstraße, Hamburg",53.614111,10.035737,False,False
+693018,"New-York-Ring, Hamburg",53.602731,10.017354,False,False
+693079,"Am Ohlendorffturm, Hamburg",53.595315,10.168337,False,False
+693131,"Timmendorfer Straße, Hamburg",53.6038,10.130888,False,False
+693132,"Alter Zollweg, Hamburg",53.607909,10.137207,False,False
+693140,"Neusurenland, Hamburg",53.616394,10.113521,False,False
+693159,"Turnierstieg, Hamburg",53.599791,10.091434,False,False
+693195,"Jenfelder Allee, Hamburg",53.57508,10.126969,False,False
+693207,"Jenfeld-Zentrum, Hamburg",53.570909,10.135859,False,False
+693208,"Jenfelder Straße, Hamburg",53.574037,10.13514,False,False
+693213,"Hüllenkamp, Hamburg",53.587674,10.154907,False,False
+693236,"Friedhof Öjendorf (Südeingang), Hamburg",53.551573,10.127607,False,False
+693336,"Karl-Arnold-Ring, Hamburg",53.485997,10.016905,False,False
+693358,"Aurubis Zentrale, Hamburg",53.521603,10.033831,False,False
+693519,"Stübenplatz, Hamburg",53.517369,9.987591,False,False
+693546,"Neuländer Elbdeich 174, Hamburg",53.471111,10.021148,False,False
+693659,"Radickestraße, Hamburg",53.439936,10.001614,False,False
+693687,"Sinstorfer Kirchweg, Hamburg",53.424565,9.980777,False,False
+693726,"Thörlstraße, Hamburg",53.464665,9.959778,False,False
+693730,"Dempwolffstraße, Hamburg",53.457861,9.965792,False,False
+693847,"Grumbrechtstraße, Hamburg",53.468009,9.967949,False,False
+694360,"Rathaus Bergedorf, Hamburg",53.487543,10.220313,False,False
+694380,"Spieringstraße, Hamburg",53.48463,10.226839,False,False
+694430,"Harnackring, Hamburg",53.507841,10.210784,False,False
+694432,"Max-Eichholz-Ring, Hamburg",53.504533,10.218245,False,False
+694540,"Achterschlag, Hamburg",53.468171,10.237545,False,False
+694569,"Ruselerweg, Hamburg",53.492496,10.195745,False,False
+694570,"Stadtteilschule Bergedorf, Hamburg",53.492667,10.190477,False,False
+694578,"Elisabeth-von-Thadden-Kehre, Hamburg",53.480181,10.167456,False,False
+694605,"Wehrdeich, Hamburg",53.486293,10.189471,False,False
+694629,"Moosberg (Pflegezentrum), Hamburg",53.498006,10.182064,False,False
+694650,"Boberger Drift, Hamburg",53.513648,10.170881,False,False
+694683,"Herbert-Pardo-Weg, Hamburg",53.484819,10.151797,False,False
+694685,"Wilhelm-Osterhold-Stieg, Hamburg",53.48366,10.161586,False,False
+694777,"Beim Avenberg, Hamburg",53.471102,10.082553,False,False
+699607,"Blättnerring, Hamburg",53.433221,9.986467,False,False
+701201,"Afrikastraße, Hamburg",53.527509,9.989829,False,False
+702226,"Worthdamm, Hamburg",53.52892,9.981406,False,False
+705513,"Bebelallee, Hamburg",53.605706,9.996256,False,False
+895011,"Klaus-Schaumann-Straße, Hamburg",53.47725,10.189291,False,False
+895174,"Liebermannstraße, Hamburg",53.545874,9.900108,False,False
+895281,"Fuhlsbüttel Nord, Hamburg",53.639344,10.016779,True,False
+895285,"Fuhlsbüttel (U), Hamburg",53.632557,10.025885,True,False
+895295,"Berner Straße, Hamburg",53.619064,10.149541,False,False
+895343,"Bethesda Krankenhaus Bergedorf, Hamburg",53.485934,10.234084,False,False
+895770,"Am Dornberg, Hamburg",53.601715,10.108208,False,False
+895865,"Ernst-August-Schleuse, Hamburg",53.524111,9.98191,False,False
+895888,"Erna-Mohr-Kehre, Hamburg",53.478545,10.177353,False,False
+896037,"Emmauskirche, Hamburg",53.590128,10.10828,False,False
+8001007,Hamburg-Blankenese,53.564122,9.813802,False,True
+8007046,Hamburg Burgwedel,53.64783,9.908648,False,False
+111077,"Lily-Braun-Straße, Hamburg",53.487031,10.173838,False,False
+140214,"Rubbertstraße 30, Hamburg",53.510906,10.004005,False,False
+222074,"Kandinskyallee (Nord), Hamburg",53.532938,10.150898,False,False
+362448,"Kirschgarten, Hamburg",53.502636,10.197354,False,False
+692323,"Bekstück, Hamburg",53.609949,9.964731,False,False
+692328,"Gottschalkweg, Hamburg",53.635712,9.943337,False,False
+692332,"Herzog-Bruno-Weg, Hamburg",53.625473,9.947041,False,False
+692338,"Langobardenweg, Hamburg",53.634831,9.966646,False,False
+692359,"Nedderfeld (Anscharhöhe), Hamburg",53.600969,9.984193,False,False
+692381,"Alsterdorf (U), Hamburg",53.606866,10.012437,True,False
+692396,"Wilhelm-Metzger-Straße, Hamburg",53.604618,9.999538,False,False
+692443,"Schnelsen (Bus), Hamburg",53.633339,9.90578,False,False
+692523,"Steinwiesenweg, Hamburg",53.609868,9.916019,False,False
+692530,"Dallbregen, Hamburg",53.618893,9.896189,False,False
+692537,"Redingskamp, Hamburg",53.612664,9.890768,False,False
+692572,"Weistritzstraße, Hamburg",53.606749,9.871351,False,False
+692589,"Kressenweg, Hamburg",53.586406,9.872853,False,False
+692596,"Recknitzstraße, Hamburg",53.599351,9.867288,False,False
+692707,"Ostermeyerstraße, Hamburg",53.568419,9.866407,False,False
+692737,"Parkstraße, Hamburg",53.552975,9.881941,False,False
+692741,"Ernst-August-Straße, Hamburg",53.549551,9.898283,False,False
+692743,"Philosophenweg, Hamburg",53.549245,9.909699,False,False
+692771,"Lawaetzhaus, Hamburg",53.544319,9.920334,False,False
+692898,"Friedhof Ohlsdorf (Kapelle 2), Hamburg",53.623352,10.04114,False,False
+692907,"Distelkoppel, Hamburg",53.635937,10.043477,False,False
+692986,"Alfred-Mahlau-Weg, Hamburg",53.609814,10.05448,False,False
+693053,"Greifenberger Straße (Ost), Hamburg",53.618444,10.144821,False,False
+693072,"Meiendorfer Weg (U), Hamburg",53.639155,10.156912,True,False
+693082,"Kinderkrankenhaus Wilhelmstift, Hamburg",53.58922,10.161155,False,False
+693095,"Großlohe, Hamburg",53.602066,10.181965,False,False
+693113,"Rönkkoppel, Hamburg",53.613662,10.107291,False,False
+693116,"Haldesdorfer Straße (Nord), Hamburg",53.607333,10.089978,False,False
+693138,"Hermelinweg, Hamburg",53.616188,10.122007,False,False
+693148,"Ebeersreye, Hamburg",53.595207,10.114725,False,False
+693168,"Steilshooper Allee, Hamburg",53.608798,10.072746,False,False
+693202,"Gleiwitzer Bogen, Hamburg",53.57054,10.141082,False,False
+693337,"Stübenhofer Weg, Hamburg",53.484109,10.012455,False,False
+693345,"König-Georg-Deich, Hamburg",53.477898,9.99525,False,False
+693359,"Hovestraße 49, Hamburg",53.519895,10.039108,False,False
+693368,"Rahmwerder Straße, Hamburg",53.511931,10.02104,False,False
+693372,"Im Schönenfelde, Hamburg",53.50029,10.018118,False,False
+693527,"Mengestraße, Hamburg",53.500793,9.991456,False,False
+693545,"Alte Schule Neuland, Hamburg",53.470472,10.027359,False,False
+693595,"Marmstorfer Weg (Nord), Hamburg",53.451775,9.971959,False,False
+693660,"Küstersweg, Hamburg",53.437374,10.004194,False,False
+693727,"Lohmannsweg, Hamburg",53.464081,9.956632,False,False
+693731,"Mehringweg, Hamburg",53.456818,9.960129,False,False
+693794,"Neuwiedenthal (S), Hamburg",53.472792,9.874839,False,True
+693846,"Bissingstraße, Hamburg",53.469556,9.96296,False,False
+694367,"Wentorfer Straße (Ost), Hamburg",53.488415,10.233868,False,False
+694539,"Wasserwerk, Hamburg",53.462805,10.235702,False,False
+694577,"Lilo-Gloeden-Kehre, Hamburg",53.478796,10.170503,False,False
+694602,"Heulandhagen, Hamburg",53.48063,10.187295,False,False
+694603,"Kienenhagen, Hamburg",53.48383,10.188509,False,False
+694635,"Richard-Linde-Weg, Hamburg",53.50153,10.187951,False,False
+694641,"Grandkoppel (West), Hamburg",53.505548,10.186396,False,False
+694646,"Am Langberg, Hamburg",53.515976,10.157847,False,False
+694649,"Rudorffweg, Hamburg",53.512443,10.178414,False,False
+694707,"See Hinterm Horn, Hamburg",53.474814,10.158485,False,False
+694751,"Gauert, Hamburg",53.463802,10.088423,False,False
+699615,"Einhausring, Hamburg",53.434039,9.989901,False,False
+699728,"Rebenacker, Hamburg",53.619118,9.901178,False,False
+702214,"Kamerunweg, Hamburg",53.527095,9.986081,False,False
+702537,"Reichsbahnstraße, Hamburg",53.602524,9.912234,False,False
+895009,"Warnemünder Weg, Hamburg",53.608142,10.164157,False,False
+895023,"Immenseeweg, Hamburg",53.594371,10.174836,False,False
+895134,"Korachstraße, Hamburg",53.510672,10.198487,False,False
+895149,"Ernastraße, Hamburg",53.518646,9.983159,False,False
+895211,"Pfingstberg, Hamburg",53.488073,10.228286,False,False
+895227,"Neumühlen/Övelgönne, Hamburg",53.543537,9.914527,False,False
+895231,"Inselstraße, Hamburg",53.606794,9.993137,False,False
+895259,"Moorstraße, Hamburg",53.456908,9.986458,False,False
+895294,"Saseler Straße, Hamburg",53.622696,10.166126,False,False
+895379,"Knappe Böge, Hamburg",53.612385,10.015511,False,False
+895771,"Eckerwiese, Hamburg",53.599189,10.108918,False,False
+895813,"Berne (U) (Berner Heerweg), Hamburg",53.626705,10.13852,True,False
+896021,"Friedhof Öjendorf (Ost-Ring), Hamburg",53.554989,10.131607,False,False
+896036,"Am Hohen Hause (Rentenversicherung), Hamburg",53.592348,10.109817,False,False
+896042,"Nesselstraße, Hamburg",53.61821,10.019718,False,False
+896049,"Schnackenburgallee (Mitte), Hamburg",53.583781,9.911147,False,False
+8002557,Hamburg-Neugraben,53.474257,9.85198,False,True
+8006319,Hamburg-Wellingsbüttel,53.641582,10.083362,False,True
+121038,"Allermöher Deich 355, Hamburg",53.472531,10.162521,False,False
+143237,"Sinstorfer Kirchweg (Schultwiete), Hamburg",53.424331,9.979608,False,False
+159237,"Sander Damm 33, Hamburg",53.493746,10.205813,False,False
+180702,"Jürgensallee, Hamburg",53.553218,9.84851,False,False
+240215,"Rotenhäuser Straße (Ost), Hamburg",53.506357,10.004122,False,False
+371797,"Ameisweg, Hamburg",53.47716,10.181578,False,False
+609523,"Blohmstraße, Hamburg",53.4672,9.98191,False,False
+692258,"Langenhorn Markt, Hamburg",53.649106,10.017318,True,False
+692329,"Vietinghoffweg, Hamburg",53.63413,9.94126,False,False
+692331,"Graf-Anton-Weg, Hamburg",53.627334,9.944137,False,False
+692337,"Grotkoppelweg, Hamburg",53.63947,9.970107,False,False
+692353,"Stavenhagenstraße, Hamburg",53.610093,9.968705,False,False
+692358,"Rosenbrook, Hamburg",53.604034,9.985856,False,False
+692394,"Hindenburgstraße, Hamburg",53.609059,10.011718,False,False
+692395,"Carl-Cohn-Straße, Hamburg",53.607333,10.005452,False,False
+692428,"Sellhopsweg (Albertinen-Haus), Hamburg",53.629438,9.928792,False,False
+692449,"Wagrierweg, Hamburg",53.639227,9.941234,False,False
+692522,"Dörpsweg, Hamburg",53.611055,9.911524,False,False
+692528,"Grenzacker, Hamburg",53.620089,9.892908,False,False
+692536,"Feldrosenweg, Hamburg",53.613886,9.885509,False,False
+692542,"Wiebischenkamp, Hamburg",53.616268,9.90703,False,False
+692689,"Flottbeker Drift, Hamburg",53.570666,9.875118,False,False
+692708,"Pflegezentrum Lutherpark, Hamburg",53.573893,9.906814,False,False
+692716,"Osdorfer Weg, Hamburg",53.565875,9.895433,False,False
+692742,"Wrangelpark, Hamburg",53.549721,9.902059,False,False
+692778,"Teufelsbrück (Fähre), Hamburg",53.547627,9.863845,False,False
+692781,"Nienstedtener Marktplatz, Hamburg",53.553937,9.844725,False,False
+692841,"Volksdorf, Hamburg",53.650535,10.163186,True,False
+692899,"Nordteich, Hamburg",53.625303,10.041634,False,False
+692904,"Erdkampsweg (Ost), Hamburg",53.628593,10.023934,False,False
+692954,"Plattenfoort, Hamburg",53.62897,10.137612,False,False
+693054,"Rauchschwalbenweg, Hamburg",53.621177,10.142511,False,False
+693074,"Brunskamp, Hamburg",53.593849,10.181344,False,False
+693083,"Kielkoppelstraße, Hamburg",53.589732,10.167591,False,False
+693156,"Rauschener Ring, Hamburg",53.59438,10.081357,False,False
+693160,"Carl-Bremer-Ring, Hamburg",53.603018,10.084522,False,False
+693201,"Holsteiner Tor, Hamburg",53.569848,10.149244,False,False
+693228,"Friedhof Öjendorf (Nordeingang), Hamburg",53.558378,10.131292,False,False
+693338,"Am Callabrack, Hamburg",53.482437,10.009767,False,False
+693360,"Hovestraße 68, Hamburg",53.517774,10.045598,False,False
+693369,"Hövelbrook, Hamburg",53.50731,10.022478,False,False
+693394,"Argentinienbrücke (Fähre), Hamburg",53.528003,9.974494,False,False
+693402,"Ernst-August-Schleuse (Fähre), Hamburg",53.523446,9.982818,False,False
+693544,"Schule Neuland, Hamburg",53.468324,10.035656,False,False
+693615,"Hamburg Hittfelder Landstraße, Seevetal",53.415405,9.982054,False,False
+693719,"Eißendorfer Pferdeweg (Mitte), Hamburg",53.462778,9.949791,False,False
+693732,"Lübbersweg, Hamburg",53.455937,9.955365,False,False
+693844,"Neuländer Straße, Hamburg",53.466598,9.991834,False,False
+694379,"Ida-Boy-Ed-Straße, Hamburg",53.483821,10.230803,False,False
+694403,"Holtenklinke, Hamburg",53.477907,10.24043,False,False
+694454,"Röpraredder, Hamburg",53.509917,10.210272,False,False
+694538,"Curslacker Heerweg 118, Hamburg",53.459164,10.234417,False,False
+694576,"Jeanette-Wolff-Ring, Hamburg",53.477907,10.173326,False,False
+694648,"Mendelstraße, Hamburg",53.511445,10.185884,False,False
+895000,"Moränenweg, Hamburg",53.610839,10.16369,False,False
+895160,"Pahlblöckensstieg, Hamburg",53.606488,10.169083,False,False
+895219,"Trebelstraße, Hamburg",53.59847,9.861131,False,False
+895256,"Ziegelerstraße, Hamburg",53.498447,9.991142,False,False
+895361,"Mühlenauweg, Hamburg",53.604744,9.909636,False,False
+895565,"Jaarsmoor, Hamburg",53.608556,9.891119,False,False
+895734,"Israelitisches Krankenhaus, Hamburg",53.605535,9.989542,False,False
+895796,"Fuhlsbüttel Nord (U), Hamburg",53.640126,10.016599,True,False
+895797,"Herthastraße, Hamburg",53.611981,10.074553,False,False
+895879,"Hafen Harburg, Hamburg",53.465232,9.980013,False,False
+895991,"Achterkamp, Hamburg",53.438021,10.008077,False,False
+896101,"Bahnhof Tornesch (Hamburger Straße), Tornesch",53.697028,9.717087,False,False
+360987,"Fehrsweg, Hamburg",53.631739,10.02006,False,False
+370998,"Gersonsweg, Hamburg",53.47476,10.182594,False,False
+609536,"Dampfschiffsweg, Hamburg",53.470994,9.983006,False,False
+692335,"Suhrenkamp, Hamburg",53.619235,10.014154,False,False
+692362,"Alsterkrugchaussee 244, Hamburg",53.61039,9.995636,False,False
+692392,"Brabandstraße, Hamburg",53.61376,10.008626,False,False
+692442,"Burgwedel (Bus), Hamburg",53.64703,9.908585,False,False
+692448,"Vielohwisch, Hamburg",53.639137,9.930761,False,False
+692526,"Mergenthalerweg, Hamburg",53.613329,9.895937,False,False
+692535,"Jasminweg, Hamburg",53.61474,9.880368,False,False
+692559,"Pinneberger Chaussee, Hamburg",53.618498,9.889635,False,False
+692573,"Neißestraße, Hamburg",53.607055,9.864978,False,False
+692588,"Flurstraße/Rugenbarg, Hamburg",53.585444,9.866731,False,False
+692616,"Blankenese (S), Hamburg",53.563753,9.813865,False,True
+692697,"Groß Flottbeker Straße, Hamburg",53.569381,9.87857,False,False
+692698,"Windmühlenweg, Hamburg",53.571197,9.868987,False,False
+692699,"Kalckreuthweg (Mitte), Hamburg",53.565156,9.88737,False,False
+692704,"Elbe-Einkaufszentrum, Hamburg",53.571808,9.861904,False,False
+692736,"Hochrad, Hamburg",53.553749,9.876295,False,False
+692772,"Neumühlen/Övelgönne (Fähre), Hamburg",53.54422,9.914868,False,False
+692848,"Wellingsbüttel (S), Hamburg",53.640773,10.082589,False,True
+692851,"Saselheider Weg, Hamburg",53.628665,10.133225,False,False
+692900,"Friedhof Ohlsdorf (Kapelle 8), Hamburg",53.62675,10.038272,False,False
+692908,"Am Gehöckel, Hamburg",53.64009,10.054596,False,False
+692953,"Eulenkrugstraße, Hamburg",53.646391,10.158665,False,False
+692982,"Einkaufszentrum Steilshoop, Hamburg",53.610372,10.05875,False,False
+693062,"Wildschwanbrook, Hamburg",53.626813,10.169236,False,False
+693065,"Eichberg, Hamburg",53.612978,10.165056,False,False
+693084,"Geesthachter Weg, Hamburg",53.58842,10.171241,False,False
+693133,"Treptower Straße, Hamburg",53.613751,10.136147,False,False
+693136,"Busbrookhöhe, Hamburg",53.621923,10.130286,False,False
+693137,"Berner Heerweg, Hamburg",53.618561,10.125593,False,False
+693139,"Stuhtsweg, Hamburg",53.619711,10.112514,False,False
+693161,"Hegholt, Hamburg",53.601176,10.080755,False,False
+693164,"Ellernreihe (Mitte), Hamburg",53.608403,10.080216,False,False
+693167,"Bramfelder Dorfplatz (Heukoppel), Hamburg",53.613796,10.077366,False,False
+693227,"Friedhof Öjendorf (Nord-Ring), Hamburg",53.559007,10.125045,False,False
+693327,"Trettaustraße, Hamburg",53.493889,9.990575,False,False
+693335,"Kirchdorf (Süd), Hamburg",53.484505,10.018882,False,False
+693346,"Kornweide, Hamburg",53.481493,9.993227,False,False
+693361,"Hovestraße (Kehre), Hamburg",53.516416,10.049787,False,False
+693370,"Niedergeorgswerder Deich (Süd), Hamburg",53.503688,10.027395,False,False
+693383,"Kreuzkirche Kirchdorf, Hamburg",53.486869,10.015466,False,False
+693524,"Rotenhäuser Straße (West), Hamburg",53.504631,9.991906,False,False
+693543,"Fünfhausener Hauptdeich, Hamburg",53.466499,10.045095,False,False
+693593,"Gottschalkring, Hamburg",53.449743,9.966259,False,False
+693596,"Rabenstein, Hamburg",53.446184,9.969244,False,False
+693715,"Berkefeldweg, Hamburg",53.470652,9.952695,False,False
+693728,"Denickestraße, Hamburg",53.458984,9.956623,False,False
+693795,"Opferberg, Hamburg",53.471983,9.876466,False,False
+694102,"Gewerbepark Merkur (Süd), Hamburg",53.603279,10.188401,False,False
+694361,"Am Baum, Hamburg",53.489269,10.225805,False,False
+694455,"Perelsstraße, Hamburg",53.510951,10.20344,False,False
+694537,"Grashofweg, Hamburg",53.453779,10.23252,False,False
+694547,"Fanny-Lewald-Ring, Hamburg",53.476693,10.17614,False,False
+694554,"Richard-Gödeke-Weg, Hamburg",53.48543,10.184805,False,False
+694601,"Püttenhorst (Süd), Hamburg",53.477898,10.186226,False,False
+694606,"Allermöher Werftstegel, Hamburg",53.471713,10.172328,False,False
+694608,"Nettelnburger Landweg (Süd), Hamburg",53.471156,10.174584,False,False
+694639,"Grandkoppelstieg, Hamburg",53.506088,10.191889,False,False
+694647,"Haempten, Hamburg",53.51176,10.192455,False,False
+694750,"Oortkatenweg, Hamburg",53.45653,10.1057,False,False
+702541,"Airport (S), Hamburg",53.632638,10.006459,False,True
+895162,"Ringstraße, Hamburg",53.635901,10.162854,False,False
+895543,"Bekkampsweg, Hamburg",53.574981,10.138924,False,False
+895735,"Hermann-Balk-Straße, Hamburg",53.623325,10.140776,False,False
+240216,"Thielenstraße (West), Hamburg",53.50251,10.003762,False,False
+362747,"Behnsrade, Hamburg",53.512227,10.199179,False,False
+363951,"Perelsstraße (Mitte), Hamburg",53.509216,10.201912,False,False
+372329,"Krapphofstraße, Hamburg",53.475192,10.188221,False,False
+692259,"Langenhorn Nord, Hamburg",53.660774,10.01757,True,False
+692305,"Langenhorn Markt (Krohnstieg) (U), Hamburg",53.649475,10.016572,True,False
+692319,"Vielohweg (West), Hamburg",53.6392,9.924199,False,False
+692330,"Wendlohstraße, Hamburg",53.629869,9.939265,False,False
+692336,"Moorrand, Hamburg",53.643056,9.972381,False,False
+692356,"Warnckesweg, Hamburg",53.610354,9.974503,False,False
+692375,"Alsterdorf, Hamburg",53.606156,10.010918,True,False
+692387,"Alsterdorfer Straße/Überseekolleg, Hamburg",53.616988,10.026155,False,False
+692405,"Moltrechtweg, Hamburg",53.615936,10.007547,False,False
+692426,"Kriegerdankweg, Hamburg",53.633285,9.911812,False,False
+692525,"Halstenbeker Stieg, Hamburg",53.616898,9.89075,False,False
+692574,"Gorch-Fock-Straße, Schenefeld (Bz Hamburg)",53.607648,9.854631,False,False
+692581,"Immenbusch, Hamburg",53.583907,9.853409,False,False
+692587,"Achtern Styg, Hamburg",53.581363,9.866812,False,False
+692591,"Eckhoffplatz (Lurup Center), Hamburg",53.590901,9.873581,False,False
+692594,"Engelbrechtweg, Hamburg",53.598119,9.856582,False,False
+692695,"Knabeweg, Hamburg",53.571934,9.856214,False,False
+692782,"Friedhof Nienstedten, Hamburg",53.555474,9.843026,False,False
+692852,"Lienaustraße, Hamburg",53.627065,10.123166,False,False
+692863,"Karlshöher Weg, Hamburg",53.631532,10.137783,False,False
+692901,"Friedhof Ohlsdorf (Kapelle 7), Hamburg",53.628161,10.046911,False,False
+692909,"Vogtskamp, Hamburg",53.643344,10.065222,False,False
+692913,"Kurzer Kamp, Hamburg",53.636692,10.033742,False,False
+692952,"Volksdorf (U), Hamburg",53.650212,10.162143,True,False
+693056,"Von-Suppé-Straße, Hamburg",53.632809,10.16475,False,False
+693061,"Wildschwanbrook (Mitte), Hamburg",53.628826,10.175079,False,False
+693086,"Sorenkoppel, Hamburg",53.591081,10.185075,False,False
+693090,"Seniorensitz Am Hegen, Hamburg",53.592771,10.171546,False,False
+693134,"Greifenberger Straße, Hamburg",53.617024,10.135553,False,False
+693162,"Karl-Müller-Ring, Hamburg",53.603018,10.078193,False,False
+693196,"Bekkamp, Hamburg",53.576006,10.143644,False,False
+693371,"Wilhelmsburger Mühle, Hamburg",53.499642,10.025507,False,False
+693415,"Waltershof, Hamburg",53.525648,9.937224,False,False
+693542,"Fünfhausener Straße, Hamburg",53.463083,10.049572,False,False
+693585,"Göhlbachtal, Hamburg",53.453258,9.95469,False,False
+693597,"Nymphenweg, Hamburg",53.441779,9.968408,False,False
+693601,"Eißendorfer Mühlenweg, Hamburg",53.44817,9.961738,False,False
+693661,"An der Eiche, Hamburg",53.434174,10.010621,False,False
+693718,"AK Harburg, Hamburg",53.459002,9.951445,False,False
+693808,"Rehrstieg, Hamburg",53.477367,9.875019,False,False
+693811,"Neugraben (S), Hamburg",53.4737,9.853004,False,True
+694375,"Höppnerallee, Wentorf bei Hamburg",53.489017,10.243846,False,False
+694402,"Klgv Rothenhauschaussee, Hamburg",53.473538,10.25538,False,False
+694536,"Rieckweg, Hamburg",53.448907,10.230057,False,False
+694542,"Nettelnburger Straße (Mitte), Hamburg",53.47743,10.187385,False,False
+694607,"BAB-Auffahrt Nettelnburg, Hamburg",53.475785,10.177506,False,False
+694747,"Siedlung Fünfhausen, Hamburg",53.450786,10.116343,False,False
+702540,"Langenhorn Markt (Tangstedt. Landstr) (U), Hamburg",53.648971,10.016257,False,False
+705527,"Vorderkamp, Hamburg",53.439945,10.010522,False,False
+895062,"Preetzer Straße, Hamburg",53.633051,10.016527,False,False
+895173,"Buckhorn, Hamburg",53.664334,10.155869,True,False
+895218,"Burbekstraße, Hamburg",53.616107,9.874911,False,False
+895233,"Schützenhof, Hamburg",53.478509,10.023952,False,False
+895261,"Köppenstraße, Hamburg",53.607261,9.978557,False,False
+895334,"Buchenkamp, Hamburg",53.652953,10.185174,True,False
+895344,"Heckende, Hamburg",53.606965,10.173596,False,False
+895451,"Wilhelm-Weber-Straße, Hamburg",53.473412,9.977999,False,False
+895795,"Ohkamp, Hamburg",53.638049,10.023808,False,False
+895945,"Brandenburger Straße, Hamburg",53.524462,9.982943,False,False
+896065,"Scharfsche Schlucht, Hamburg",53.426272,9.97559,False,False
+8003088,Hamburg-Iserbrook,53.576123,9.815133,False,True
+8004862,Hamburg-Poppenbüttel,53.651857,10.093879,False,True
+140218,"Berufsschulcampus Elbinsel, Hamburg",53.500514,10.001578,False,False
+363413,"Neugraben (Nordseite) (S), Hamburg",53.474778,9.853517,False,True
+377503,"Neugraben, Hamburg",53.473655,9.8534,False,True
+692303,"Sperlingsweg, Hamburg",53.645546,9.974961,False,False
+692317,"Großer Ring, Hamburg",53.64125,9.926105,False,False
+692322,"Pommernweg, Hamburg",53.642706,9.956587,False,False
+692363,"Alsterdorfer Damm, Hamburg",53.613203,9.999609,False,False
+692424,"Siloahweg, Hamburg",53.635371,9.901267,False,False
+692432,"Frohmestraße (Mitte), Hamburg",53.632296,9.921367,False,False
+692527,"Wildacker, Hamburg",53.621374,9.888143,False,False
+692575,"Kreuzweg, Schenefeld (Bz Hamburg)",53.608223,9.845786,False,False
+692580,"Achtern Born (Kindermuseum), Hamburg",53.587081,9.85171,False,False
+692586,"Geranienweg, Hamburg",53.578541,9.866057,False,False
+692592,"Flurstraße (Nord), Hamburg",53.593409,9.870318,False,False
+692655,"Rupertistraße (Mitte), Hamburg",53.557137,9.838127,False,False
+692711,"Flottbeker Kirche, Hamburg",53.565381,9.8775,False,False
+692850,"Leharstraße, Hamburg",53.629878,10.145999,False,False
+692853,"Roter Hahn, Hamburg",53.625482,10.117395,False,False
+692864,"Beim Farenland, Hamburg",53.635389,10.135967,False,False
+692875,"Rolfinckstraße, Hamburg",53.639191,10.094778,False,False
+692980,"Erich-Ziegel-Ring, Hamburg",53.612106,10.063846,False,False
+692981,"Hallenbad Bramfeld, Hamburg",53.611064,10.069267,False,False
+693060,"Hellmesbergerweg, Hamburg",53.630364,10.179295,False,False
+693066,"Eichwischen, Hamburg",53.614516,10.171151,False,False
+693080,"Waldwinkel, Hamburg",53.591809,10.174567,False,False
+693085,"Am Hegen, Hamburg",53.589094,10.18049,False,False
+693119,"Karlshöhe, Hamburg",53.623864,10.111471,False,False
+693135,"Zamenhofweg, Hamburg",53.62257,10.133935,False,False
+693163,"Ellernreihe, Hamburg",53.606272,10.081267,False,False
+693165,"Heukoppel, Hamburg",53.611531,10.080315,False,False
+693166,"Berner Chaussee, Hamburg",53.619073,10.080351,False,False
+693320,"Haulander Weg, Hamburg",53.488289,9.99,False,False
+693340,"Stillhorner Weg, Hamburg",53.478401,10.03358,False,False
+693348,"Friedhof Finkenriek (Eingang), Hamburg",53.475506,10.004572,False,False
+693375,"Aurubis Werk Ost, Hamburg",53.515365,10.035351,False,False
+693413,"Reiherstieg Hauptdeich, Hamburg",53.511149,9.978161,False,False
+693523,"Neuhöfer Straße (Ost), Hamburg",53.510178,9.99267,False,False
+693598,"Marmstorfer Kirche, Hamburg",53.439397,9.9675,False,False
+693675,"Höpengrund, Hamburg",53.424708,9.993281,False,False
+693713,"Krankenhaus Mariahilf, Hamburg",53.471003,9.936829,False,False
+693714,"Eißendorfer Pferdeweg (Nord), Hamburg",53.47103,9.945692,False,False
+693733,"Gellersenweg, Hamburg",53.455002,9.947571,False,False
+694362,"Schlebuschweg, Hamburg",53.492415,10.22469,False,False
+694368,"Hochweg, Wentorf bei Hamburg",53.502753,10.249555,False,False
+694401,"Speckenweg, Hamburg",53.472441,10.261043,False,False
+694527,"Heinrich-Stubbe-Weg, Hamburg",53.445159,10.229392,False,False
+694546,"Nettelnburger Kirchenweg, Hamburg",53.480181,10.182774,False,False
+694627,"Fritz-Lindemann-Weg, Hamburg",53.510178,10.185452,False,False
+694638,"Schulenburgring, Hamburg",53.508056,10.186882,False,False
+694734,"Homannring, Hamburg",53.447595,10.124056,False,False
+700305,"Sandweg, Wentorf bei Hamburg",53.488828,10.250157,False,False
+701197,"Worthdamm (Süd), Hamburg",53.527617,9.981236,False,False
+895240,"Mühlenberg, Hamburg",53.56076,9.822971,False,False
+895262,"Röntgenstraße, Hamburg",53.62355,10.011277,False,False
+895329,"Rahlstedter Kamp, Hamburg",53.609527,10.17374,False,False
+896066,"Moorlage, Hamburg",53.429302,9.972354,False,False
+8002556,Hamburg-Fischbek,53.474778,9.819475,False,True
+362944,"Rathaus, Wentorf bei Hamburg",53.493395,10.253258,False,False
+692278,"Reestück, Hamburg",53.64996,10.009192,False,False
+692301,"Am Schulwald, Hamburg",53.650104,10.027233,False,False
+692320,"Klotzenmoor (Mitte), Hamburg",53.609167,9.9836,False,False
+692321,"Keltenweg, Hamburg",53.645376,9.957522,False,False
+692334,"Heselstücken, Hamburg",53.61875,9.999511,False,False
+692355,"Spreenende, Hamburg",53.612727,9.973496,False,False
+692423,"Alsterkrugchaussee (Mitte), Hamburg",53.617851,10.005354,False,False
+692445,"Modering, Hamburg",53.637789,9.920522,False,False
+692576,"Lindenallee, Schenefeld (Bz Hamburg)",53.608457,9.840869,False,False
+692578,"Schenefelder Platz, Schenefeld (Bz Hamburg)",53.598784,9.84922,False,False
+692593,"Luckmoor, Hamburg",53.596996,9.865347,False,False
+692635,"Oesterleystraße, Hamburg",53.561398,9.811654,False,False
+692654,"Stauffenbergstraße, Hamburg",53.560266,9.832338,False,False
+692694,"Bertha-Uhl-Kamp, Hamburg",53.565066,9.870372,False,False
+692702,"Sternbergweg, Hamburg",53.56476,9.846469,False,False
+692703,"Langelohstraße (Nord), Hamburg",53.572833,9.846586,False,False
+692706,"Flurkamp, Hamburg",53.573291,9.864726,False,False
+692832,"Rögenweg, Hamburg",53.656226,10.160184,False,False
+692845,"Friedhof Ohlsdorf (Kapelle 1), Hamburg",53.622318,10.040429,False,False
+692849,"Alaskaweg, Hamburg",53.62835,10.150565,False,False
+692858,"Buddenbrookweg, Hamburg",53.626247,10.116757,False,False
+692865,"Elbe-Werkstätten Nord, Hamburg",53.63902,10.133486,False,False
+692866,"Nektarweg, Hamburg",53.637312,10.133387,False,False
+692881,"Königsberger Straße, Hamburg",53.623172,10.084099,False,False
+692902,"Friedhof Ohlsdorf (Kapelle 6), Hamburg",53.627388,10.054659,False,False
+692910,"Emekesweg, Hamburg",53.646787,10.077195,False,False
+692914,"Am Gnadenberg, Hamburg",53.638103,10.035485,False,False
+692938,"Halenreie, Hamburg",53.653259,10.160013,False,False
+692945,"Buchenkamp (U), Hamburg",53.65281,10.186414,True,False
+692966,"Borchertring, Hamburg",53.614794,10.067442,False,False
+692978,"Leeschenblick, Hamburg",53.614947,10.071937,False,False
+693057,"Spitzbergenweg, Hamburg",53.629267,10.166036,False,False
+693059,"Skaldenweg, Hamburg",53.633402,10.179636,False,False
+693081,"Schimmelreiterweg, Hamburg",53.590667,10.178306,False,False
+693197,"Glatzer Straße, Hamburg",53.579682,10.144579,False,False
+693326,"Hohe Schaar, Hamburg",53.480109,9.982674,False,False
+693341,"Heuckenlock, Hamburg",53.476163,10.039234,False,False
+693376,"Siedenfelder Weg (Mitte), Hamburg",53.494995,10.020599,False,False
+693403,"Ernst-August-Deich, Hamburg",53.521055,9.981964,False,False
+693515,"Neuhöfer Straße (Mitte), Hamburg",53.510699,9.982278,False,False
+693517,"Veringstraße (Mitte), Hamburg",53.510501,9.986674,False,False
+693584,"Seestücken, Hamburg",53.449474,9.953863,False,False
+693592,"Neuer Friedhof, Hamburg",53.44586,9.956057,False,False
+693599,"Feuerteichweg, Hamburg",53.436466,9.966754,False,False
+693688,"Rüstweg, Hamburg",53.417247,9.982845,False,False
+693717,"Lühmannstraße, Hamburg",53.457735,9.947032,False,False
+693735,"Bünte, Hamburg",53.455272,9.943112,False,False
+693768,"Moorburger Ring, Hamburg",53.480684,9.873068,False,False
+693793,"Francoper Straße, Hamburg",53.471398,9.863405,False,False
+693831,"Konsul-Ritter-Straße, Hamburg",53.470401,9.97221,False,False
+694369,"Kirche, Wentorf bei Hamburg",53.501144,10.252503,False,False
+694400,"Speckenwegbrücke, Hamburg",53.467812,10.258876,False,False
+694453,"Havighorster Weg, Hamburg",53.512677,10.209562,False,False
+694621,"Fünfhausen (Durchdeich), Hamburg",53.44435,10.12758,False,False
+694760,"Hofschläger Deich, Hamburg",53.486213,10.054587,False,False
+701193,"Lapplandring, Hamburg",53.630462,10.168822,False,False
+702528,"Rittmerskamp, Hamburg",53.64836,10.009246,False,False
+895163,"Neurahlstedter Graben, Hamburg",53.610381,10.177299,False,False
+895191,"Kiwittsmoor, Hamburg",53.675004,10.01615,True,False
+895241,"Oldesloer Straße, Hamburg",53.635469,9.918491,False,False
+895255,"Industriestraße, Hamburg",53.517189,9.981676,False,False
+895825,"Deepenbrook (Möbel Höffner), Hamburg",53.621015,9.908369,False,False
+895880,"Friedhof Ohlsdorf (Bestattungsforum), Hamburg",53.623882,10.03438,False,False
+896067,"Am Pavillon, Hamburg",53.434318,9.968794,False,False
+8005785,Hamburg-Sülldorf,53.581166,9.797065,False,True
+121039,"Allermöher Deich 365, Hamburg",53.472459,10.164831,False,False
+363355,"Obenhauptstraße, Hamburg",53.620745,10.007493,False,False
+626932,"Neuwiedenthaler Straße (West), Hamburg",53.47672,9.861742,False,False
+692077,"Freegen, Hamburg",53.440826,10.129369,False,False
+692160,"Sandkrugweg, Hamburg",53.625312,9.891946,False,False
+692273,"Flughafenstraße, Hamburg",53.639613,10.012356,False,False
+692274,"Wischhöfen, Hamburg",53.644746,10.013084,False,False
+692279,"Dreyerpfad, Hamburg",53.653502,10.006801,False,False
+692302,"Wördenmoorweg, Hamburg",53.6545,10.019566,False,False
+692307,"Samlandweg, Hamburg",53.648693,10.003043,False,False
+692316,"Wunderbrunnen, Hamburg",53.646607,9.926329,False,False
+692354,"Am Licentiatenberg, Hamburg",53.614174,9.983627,False,False
+692446,"Graf-Otto-Weg, Hamburg",53.64534,9.912414,False,False
+692541,"Eidelstedter Brook, Hamburg",53.622516,9.908738,False,False
+692579,"Böttcherkamp, Hamburg",53.593472,9.852923,False,False
+692608,"Sandort, Hamburg",53.575646,9.846901,False,False
+692634,"Auguste-Baur-Straße, Hamburg",53.559142,9.813497,False,False
+692648,"Grotefendweg, Hamburg",53.566531,9.827223,False,False
+692659,"Iserbrook (S), Hamburg",53.57739,9.813892,False,True
+692871,"Am Pfeilshof, Hamburg",53.640674,10.098401,False,False
+692882,"Maisredder, Hamburg",53.627316,10.085537,False,False
+692896,"Friedhof Ohlsdorf (Kapelle 4), Hamburg",53.616916,10.041841,False,False
+692903,"Ida-Ehre-Allee, Hamburg",53.624799,10.054803,False,False
+692911,"Hinsbleek, Hamburg",53.651138,10.078679,False,False
+692915,"Hummelsbüttler Hauptstraße, Hamburg",53.640926,10.03705,False,False
+692929,"Poppenbüttel (Wentzelplatz) (S), Hamburg",53.651821,10.092648,False,True
+692937,"Rögenfeld, Hamburg",53.653304,10.151572,False,False
+693047,"Offenbachweg, Hamburg",53.632629,10.173919,False,False
+693315,"Dahlgrünring, Hamburg",53.483417,10.018631,False,False
+693325,"Eversween (Süd), Hamburg",53.484091,9.979393,False,False
+693342,"Moorwerder Hauptdeich 69, Hamburg",53.472675,10.046389,False,False
+693349,"Friedhof Finkenriek, Hamburg",53.47467,10.011421,False,False
+693377,"Siedenfelder Weg (West), Hamburg",53.496784,10.01552,False,False
+693386,"Neuhof, Hamburg",53.524156,9.940703,False,False
+693420,"BAB-Auffahrt Waltershof, Hamburg",53.514232,9.91192,False,False
+693518,"Mannesallee, Hamburg",53.514762,9.987249,False,False
+693587,"Up den Wiemen (EKZ Marmstorf), Hamburg",53.440664,9.959563,False,False
+693591,"Vogelhüttenberg, Hamburg",53.44266,9.949692,False,False
+693600,"Osterfeldweg, Hamburg",53.435954,9.97186,False,False
+693708,"Zum Fürstenmoor, Hamburg",53.471803,9.931291,False,False
+693716,"Triftstraße, Hamburg",53.458103,9.942645,False,False
+693736,"Ehestorfer Weg (Mitte), Hamburg",53.455002,9.937116,False,False
+693769,"Erlenbruch, Hamburg",53.48197,9.86763,False,False
+693807,"Twistering, Hamburg",53.477826,9.878902,False,False
+693809,"Friedhof Neuwiedenthal, Hamburg",53.476297,9.869167,False,False
+693832,"Zweite Hafenstraße, Hamburg",53.471578,9.966035,False,False
+694364,"Hermann-Distel-Straße, Hamburg",53.494905,10.22051,False,False
+694370,"Am Petersilienberg, Wentorf bei Hamburg",53.497908,10.253645,False,False
+694399,"Windpark Horst, Hamburg",53.465241,10.2616,False,False
+694495,"Neuengammer Hinterdeich (Ost), Hamburg",53.427756,10.215108,False,False
+694676,"Berufsschulzentrum Bergedorf, Hamburg",53.491669,10.18263,False,False
+694735,"Spadenländer Elbdeich, Hamburg",53.477196,10.062965,False,False
+700333,"Henkenhoop, Wentorf bei Hamburg",53.489916,10.256962,False,False
+701190,"Dessauer Straße, Hamburg",53.523509,10.007574,False,False
+701192,"Naturschutzgebiet Höltigbaum, Hamburg",53.611244,10.183475,False,False
+704913,"Hamburger Straße, Bad Oldesloe",53.808377,10.369219,False,False
+704979,"In der Hörn, Hamburg",53.474383,10.194945,False,False
+895051,"Kirschtenstraße, Hamburg",53.562423,9.807456,False,False
+895142,"Rickelstraße, Hamburg",53.448719,9.948937,False,False
+895143,"Hans-Dewitz-Ring, Hamburg",53.461672,9.943975,False,False
+895179,"Karstenstraße, Hamburg",53.565479,9.801092,False,False
+895235,"Werfelring, Hamburg",53.627972,10.115364,False,False
+895630,"Domizil Am Hirschpark, Hamburg",53.56121,9.827178,False,False
+895816,"Poppenbüttel (Stormarnplatz) (S), Hamburg",53.651344,10.09441,False,True
+895824,"Ratsmühlendamm, Hamburg",53.627388,10.013012,False,False
+140219,"Schulen Stübenhofer Weg, Hamburg",53.482563,10.015889,False,False
+692044,"Lufthansa-Basis (Haupteingang), Hamburg",53.621572,9.996913,False,False
+692096,"Ochsenzoll, Hamburg",53.67806,10.001812,True,False
+692269,"Zeppelinstraße, Hamburg",53.627433,10.008194,False,False
+692300,"Timmerloh, Hamburg",53.657511,10.020015,False,False
+692308,"Wrangelkoppel, Hamburg",53.648414,9.996337,False,False
+692318,"Paeplowstieg, Hamburg",53.615702,9.986135,False,False
+692393,"Sengelmannstraße (Mitte), Hamburg",53.613868,10.019979,False,False
+692431,"Wählingsweg, Hamburg",53.631595,9.919605,False,False
+692440,"Burgwedelkamp, Hamburg",53.642715,9.915803,False,False
+692529,"Baumacker, Hamburg",53.6207,9.897645,False,False
+692577,"Jahnstraße, Schenefeld (Bz Hamburg)",53.60496,9.843305,False,False
+692619,"Gätgensstraße, Hamburg",53.559798,9.821668,False,False
+692622,"Wilmans Park, Hamburg",53.563133,9.804346,False,False
+692633,"Strandtreppe, Hamburg",53.558333,9.810854,False,False
+692647,"Darbovenstieg, Hamburg",53.572024,9.824428,False,False
+692653,"Björnsonweg, Hamburg",53.566288,9.793649,False,False
+692664,"Tietzestraße, Hamburg",53.566783,9.832626,False,False
+692684,"Teufelsbrück, Hamburg",53.54644,9.862866,False,False
+692831,"Frankring, Hamburg",53.659911,10.15702,False,False
+692855,"Kienholt, Hamburg",53.621222,10.104316,False,False
+692860,"Quittenweg, Hamburg",53.627352,10.109431,False,False
+692867,"Saseler Bogen, Hamburg",53.642292,10.127023,False,False
+692870,"Mellande, Hamburg",53.641672,10.105853,False,False
+692895,"Friedhof Ohlsdorf (Kapelle 3), Hamburg",53.617788,10.045985,False,False
+692930,"Alstertal-Einkaufszentrum, Hamburg",53.655327,10.093034,False,False
+692936,"Hültkoppel, Hamburg",53.653025,10.140569,False,False
+692979,"Gründgensstraße (Ost), Hamburg",53.613823,10.066139,False,False
+693071,"Bargkoppelweg, Hamburg",53.625761,10.160867,False,False
+693324,"Eversween (Mitte), Hamburg",53.489107,9.978602,False,False
+693343,"Moorwerder Hauptdeich 35, Hamburg",53.465969,10.055693,False,False
+693347,"Weidendamm, Hamburg",53.480837,10.006477,False,False
+693380,"Schwentnerring, Hamburg",53.493485,10.010091,False,False
+693586,"Beutnerring, Hamburg",53.443289,9.955697,False,False
+693590,"Schafshagenberg, Hamburg",53.440898,9.945638,False,False
+693705,"Forstweg, Hamburg",53.459443,9.938878,False,False
+693707,"Am Radeland, Hamburg",53.471812,9.925646,False,False
+693712,"Bostelbek, Hamburg",53.470922,9.931921,False,False
+693720,"Heimfelder Straße 123, Hamburg",53.461025,9.940523,False,False
+693734,"Lichtenauerweg, Hamburg",53.455146,9.945351,False,False
+693737,"Auf der Jahnhöhe, Hamburg",53.453878,9.929664,False,False
+693740,"Beerentalweg, Hamburg",53.44835,9.942906,False,False
+693744,"Weidenbruch, Hamburg",53.483606,9.864681,False,False
+693772,"Heidemoor, Hamburg",53.481988,9.860843,False,False
+693806,"Hardauring, Hamburg",53.478365,9.883685,False,False
+693812,"Schule Fischbek, Hamburg",53.472711,9.844177,False,False
+693833,"Moorburger Straße, Hamburg",53.473034,9.958232,False,False
+694414,"Bille-Bad, Hamburg",53.493053,10.214865,False,False
+694494,"Kiebitzdeich (West), Hamburg",53.425068,10.215081,False,False
+694526,"Horster Damm, Hamburg",53.461906,10.271614,False,False
+694545,"Siedlung Curslack (Nord), Hamburg",53.471875,10.203907,False,False
+694581,"Siedfeld, Hamburg",53.435118,10.129836,False,False
+694597,"Krapphofschleuse, Hamburg",53.468144,10.189516,False,False
+702491,"Zollstraße, Wentorf bei Hamburg",53.490051,10.250229,False,False
+705515,"Gorch-Fock-Schule, Hamburg",53.562953,9.801838,False,False
+895166,"Neuer Höltigbaum, Hamburg",53.608142,10.185417,False,False
+895574,"Moorfleeter Kirchenweg, Hamburg",53.513171,10.081321,False,False
+895666,"Am Fuchsberg, Hamburg",53.465241,9.948317,False,False
+895787,"Alte Holstenstraße, Hamburg",53.490671,10.208096,False,False
+895794,"Lentersweg, Hamburg",53.639371,10.028069,False,False
+367082,"Michael-Pritzl-Weg, Hamburg",53.481008,10.156858,False,False
+373021,"Vahrenwinkelweg, Hamburg",53.460189,9.93486,False,False
+692280,"Foorthkamp, Hamburg",53.656639,10.004913,False,False
+692299,"Lademannbogen, Hamburg",53.648702,10.036879,False,False
+692309,"Ermlandweg, Hamburg",53.649061,9.992094,False,False
+692364,"Lufthansa-Basis, Hamburg",53.620574,9.997515,False,False
+692427,"Peter-Timm-Straße, Hamburg",53.639784,9.915974,False,False
+692430,"Halstenbeker Straße, Hamburg",53.627334,9.909789,False,False
+692441,"IKEA Schnelsen, Hamburg",53.647605,9.927058,False,False
+692561,"Grubenstieg, Hamburg",53.582172,9.857679,False,False
+692582,"Rugenfeld, Hamburg",53.578748,9.850622,False,False
+692585,"Blomkamp, Hamburg",53.577282,9.859962,False,False
+692623,"Richard-Dehmel-Straße, Hamburg",53.562729,9.798817,False,False
+692631,"Charitas-Bischoff-Treppe, Hamburg",53.55925,9.805119,False,False
+692632,"Beckers Treppe, Hamburg",53.558207,9.808058,False,False
+692652,"Krankenhaus Tabea, Hamburg",53.565381,9.790781,False,False
+692680,"Hof Bockhorst, Hamburg",53.568698,9.834873,False,False
+692786,"Ohlstedt, Hamburg",53.694583,10.13709,True,False
+692856,"Fahrenkrön, Hamburg",53.619352,10.096612,False,False
+692857,"Hohnerkamp, Hamburg",53.617967,10.089439,False,False
+692862,"Waldingstraße, Hamburg",53.635946,10.101664,False,False
+692869,"Gilcherweg, Hamburg",53.642238,10.113458,False,False
+692879,"Nüßlerkamp, Hamburg",53.622615,10.084333,False,False
+692889,"Bramfelder See, Hamburg",53.618669,10.073699,False,False
+692891,"Friedhof Ohlsdorf (Kapelle 9), Hamburg",53.62453,10.06266,False,False
+692894,"Wasserturm, Hamburg",53.619711,10.049796,False,False
+692916,"EKZ Hummelsbüttel, Hamburg",53.642535,10.048007,False,False
+692927,"Alte Landstraße (Nord), Hamburg",53.653205,10.077294,False,False
+692935,"Saselbekstraße, Hamburg",53.655983,10.134043,False,False
+692949,"Gut Karlshöhe, Hamburg",53.629006,10.107831,False,False
+692951,"Uppenhof, Hamburg",53.647839,10.161227,False,False
+693344,"Freiluftschule Moorwerder, Hamburg",53.463173,10.061977,False,False
+693382,"Am Papenbrack, Hamburg",53.488073,10.009012,False,False
+693583,"Beutnerring (Kehre), Hamburg",53.443568,9.953675,False,False
+693589,"Langenberg, Hamburg",53.43955,9.941377,False,False
+693656,"Zum Jägerfeld, Hamburg",53.435675,9.977559,False,False
+693706,"Heykenaubrook, Hamburg",53.47192,9.918509,False,False
+693771,"Gartenfreunde Francoper Straße, Hamburg",53.487246,9.86807,False,False
+693805,"Altwiedenthaler Straße, Hamburg",53.478086,9.888242,False,False
+693813,"Geutensweg, Hamburg",53.472324,9.839826,False,False
+693816,"Ohrnsweg, Hamburg",53.473906,9.821461,False,False
+693834,"ESSO, Hamburg",53.474491,9.9506,False,False
+694415,"Augustastraße, Hamburg",53.490851,10.215306,False,False
+694493,"In der Ohe-Nord, Hamburg",53.419441,10.204402,False,False
+694567,"Kurfürstendeich, Hamburg",53.466445,10.201804,False,False
+694580,"Kirchwerder Schulweg, Hamburg",53.429994,10.134016,False,False
+694596,"Schleusendamm, Hamburg",53.465142,10.189722,False,False
+694609,"Reitbrooker Mühlenbrücke, Hamburg",53.467973,10.176005,False,False
+702486,"Achtern Höben, Wentorf bei Hamburg",53.493467,10.256692,False,False
+895616,"Am Genter Ufer, Hamburg",53.515418,9.896557,False,False
+895817,"Moorweg, Schenefeld (Bz Hamburg)",53.602695,9.845678,False,False
+895978,"Immenhöven, Hamburg",53.660855,10.021669,False,False
+8005106,Hamburg-Rissen,53.583242,9.757063,False,True
+181120,"Hardenbergstraße, Hamburg",53.565093,9.798305,False,False
+362620,"Goldene Wiege (Jahnhöhe), Hamburg",53.458346,9.935157,False,False
+375014,"BAB-Auffahrt Waltershof (N), Hamburg",53.514421,9.912432,False,False
+610804,"Hamburger Straße, Winsen (Luhe)",53.366845,10.20059,False,False
+692281,"Oehleckerring, Hamburg",53.660298,10.002702,False,False
+692284,"Ochsenzoll (U), Hamburg",53.678015,10.000778,True,False
+692288,"Lademannbogen (West), Hamburg",53.647821,10.032501,False,False
+692296,"Wattkorn, Hamburg",53.664648,10.023746,False,False
+692298,"Glashütter Landstraße, Hamburg",53.647731,10.041544,False,False
+692429,"Graf-Johann-Weg, Hamburg",53.627936,9.919264,False,False
+692435,"Albertinen-Krankenhaus (Schnelsen), Hamburg",53.632036,9.90498,False,False
+692540,"Spanische Furt, Hamburg",53.625087,9.917008,False,False
+692630,"Kahlkamp, Hamburg",53.560185,9.803537,False,False
+692639,"Sülldorf (S), Hamburg",53.580096,9.796696,False,True
+692642,"Wulfsdal, Hamburg",53.569192,9.808948,False,False
+692646,"Isfeldstraße, Hamburg",53.573776,9.837022,False,False
+692651,"Lichtheimweg, Hamburg",53.566297,9.782502,False,False
+692663,"Am Isfeld, Hamburg",53.571637,9.840878,False,False
+692830,"Ohlendorffs Tannen, Hamburg",53.668064,10.147302,False,False
+692859,"Thomas-Mann-Straße, Hamburg",53.627874,10.112343,False,False
+692861,"Grootmoor, Hamburg",53.632629,10.105026,False,False
+692868,"Alter Berner Weg, Hamburg",53.644036,10.121674,False,False
+692876,"Am Damm, Hamburg",53.631973,10.089169,False,False
+692890,"Friedhof Ohlsdorf (Kapelle 12), Hamburg",53.62444,10.070364,False,False
+692893,"Friedhof Ohlsdorf (Kapelle 10), Hamburg",53.61999,10.054803,False,False
+692917,"Poppenbüttler Stieg, Hamburg",53.644773,10.051783,False,False
+692928,"Schulbergredder, Hamburg",53.656621,10.085456,False,False
+692950,"Wiesenhöfen, Hamburg",53.647551,10.169281,False,False
+693323,"Eversween (Nord), Hamburg",53.496937,9.975977,False,False
+693381,"Hinter der Dorfkirche, Hamburg",53.490402,10.008554,False,False
+693412,"Neuhöfer Damm, Hamburg",53.512794,9.969334,False,False
+693492,"Aluminiumwerk, Hamburg",53.517801,9.889528,False,False
+693588,"Appelbütteler Weg, Hamburg",53.436727,9.934599,False,False
+693652,"Sinstorfer Kirche, Hamburg",53.424241,9.973325,False,False
+693738,"Majestätische Aussicht, Hamburg",53.453411,9.925502,False,False
+693739,"Strucksbarg, Hamburg",53.449923,9.937647,False,False
+693792,"Neugrabener Markt, Hamburg",53.469609,9.854443,False,False
+693796,"Talweg, Hamburg",53.472126,9.883676,False,False
+693804,"Hausbrucher Bahnhofstraße, Hamburg",53.477466,9.894741,False,False
+693814,"Rostweg, Hamburg",53.471569,9.832572,False,False
+694365,"Luisen-Gymnasium, Hamburg",53.492091,10.22763,False,False
+694374,"Friedrichsruher Weg, Wentorf bei Hamburg",53.493889,10.261321,False,False
+694416,"Schillerufer, Hamburg",53.490878,10.211629,False,False
+694525,"Alte Horster Schule, Hamburg",53.455883,10.283165,False,False
+694544,"Neuengammer Hausdeich 490, Hamburg",53.463074,10.198289,False,False
+694579,"Johannssenstegel, Hamburg",53.423935,10.139769,False,False
+694595,"Curslacker Brückendamm, Hamburg",53.462939,10.199359,False,False
+694610,"Reitbrooker Mühle, Hamburg",53.467821,10.170746,False,False
+694742,"Dorferbogen, Hamburg",53.46809,10.06719,False,False
+694770,"Moorfleeter Deich, Hamburg",53.518718,10.06951,False,False
+694773,"Andreas-Meyer-Straße (Ost), Hamburg",53.516012,10.081636,False,False
+697053,"Hohnerkamp (Mitte), Hamburg",53.623568,10.090401,False,False
+699736,"Wietersheim, Hamburg",53.625186,9.898274,False,False
+705529,"Gewerbepark Merkur, Hamburg",53.607504,10.188581,False,False
+895164,"Waterblöckenwiese, Hamburg",53.60834,10.175807,False,False
+895531,"Hamburger Straße, Elmshorn",53.748877,9.677103,False,False
+895790,"Holstenkamp (West), Hamburg",53.574064,9.906454,False,False
+895827,"Gewerbegebiet Obergeorgswerder, Hamburg",53.508937,10.048052,False,False
+181141,"Pieperweg, Hamburg",53.580267,9.823052,False,False
+692066,"Süderquerweg 399, Hamburg",53.421616,10.144282,False,False
+692265,"Lademannbogen (Ost), Hamburg",53.648099,10.037319,False,False
+692282,"Tarpen, Hamburg",53.665628,10.001407,False,False
+692292,"Langenhorn Nord (U), Hamburg",53.661421,10.018343,True,False
+692295,"Hohe Liedt, Hamburg",53.669557,10.025777,False,False
+692297,"Brillkamp, Hamburg",53.646643,10.04914,False,False
+692434,"Franzosenheide, Hamburg",53.631442,9.900207,False,False
+692447,"Scheelring, Hamburg",53.638795,9.91058,False,False
+692629,"Krögers Treppe (Fischerhaus), Hamburg",53.558459,9.803402,False,False
+692641,"Siebenbuchen, Hamburg",53.573327,9.806926,False,False
+692650,"Falkenstein, Hamburg",53.566774,9.779374,False,False
+692658,"Sülldorfer Landstraße, Hamburg",53.57641,9.823115,False,False
+692795,"Ohlstedt (U), Hamburg",53.695347,10.138088,True,False
+692825,"Alsterredder, Hamburg",53.659156,10.095587,False,False
+692829,"Stüffeleck, Hamburg",53.669179,10.143005,False,False
+692835,"Volksdorfer Grenzweg, Hamburg",53.675948,10.141522,False,False
+692878,"Gumbinner Kehre, Hamburg",53.62595,10.092369,False,False
+692880,"Foßredder, Hamburg",53.647173,10.172508,False,False
+692887,"Friedhof Ohlsdorf (Kapelle 13), Hamburg",53.624332,10.076593,False,False
+692892,"Mittelallee, Hamburg",53.622858,10.057176,False,False
+692921,"Am Hehsel, Hamburg",53.647137,10.056286,False,False
+692931,"Stadtbahnstraße, Hamburg",53.653646,10.106905,False,False
+692934,"Steinwegel, Hamburg",53.655156,10.125018,False,False
+692944,"Moorredder, Hamburg",53.659201,10.182504,False,False
+693049,"Hohenkamp, Hamburg",53.605967,10.146134,False,False
+693322,"Rethebrücke (Süd), Hamburg",53.502177,9.967815,False,False
+693334,"Moorwerder Osterdeich, Hamburg",53.467812,10.060601,False,False
+693384,"Oberwerder Damm, Hamburg",53.525154,10.026982,False,False
+693407,"Neuhof (Fähre), Hamburg",53.525271,9.94198,False,False
+693408,"Nippoldstraße (Ost), Hamburg",53.515248,9.969244,False,False
+693493,"Osterfelddeich, Hamburg",53.520003,9.885734,False,False
+693676,"Haithabuweg, Hamburg",53.425095,9.967985,False,False
+693711,"Moorstieg, Hamburg",53.470589,9.921089,False,False
+693770,"Francoper Hinterdeich, Hamburg",53.496784,9.874579,False,False
+693797,"Hausbruch, Hamburg",53.471776,9.893735,False,False
+693815,"Fischbeker Heuweg, Hamburg",53.471048,9.826684,False,False
+694363,"Hansa-Gymnasium, Hamburg",53.493808,10.22105,False,False
+694371,"Wohltorfer Weg, Wentorf bei Hamburg",53.497081,10.259712,False,False
+694373,"Kirschkoppel, Wentorf bei Hamburg",53.494087,10.265501,False,False
+694465,"Horster Moor, Hamburg",53.452036,10.286635,False,False
+694489,"Schule Kirchwerder, Hamburg",53.420412,10.202262,False,False
+694594,"Kirchwerder Landweg 70, Hamburg",53.457501,10.191628,False,False
+694611,"Vorderdeich 75, Hamburg",53.468711,10.160139,False,False
+694743,"Schule Ochsenwerder, Hamburg",53.47156,10.074597,False,False
+699763,"Wogenmannsburg, Hamburg",53.626031,9.903506,False,False
+702175,"Große Straße, Hamburg",53.450516,9.92375,False,False
+895992,"Bergheide, Hamburg",53.467794,9.854739,False,False
+182060,"Blocksberg, Schenefeld (Bz Hamburg)",53.613041,9.840599,False,False
+376064,"Zwischen den Toren, Wentorf bei Hamburg",53.487867,10.257375,False,False
+692277,"Dortmunder Straße, Hamburg",53.673629,9.994306,False,False
+692636,"Rissen (S), Hamburg",53.582469,9.7586,False,True
+692640,"Blankeneser Friedhof, Hamburg",53.576365,9.802566,False,False
+692644,"Heerbrook, Hamburg",53.579718,9.830046,False,False
+692657,"Holtbarg, Hamburg",53.583611,9.822495,False,False
+692660,"Musäusstraße, Hamburg",53.580455,9.816607,False,False
+692668,"Krähenhorst, Hamburg",53.568167,9.793127,False,False
+692824,"Weidende, Hamburg",53.657969,10.101062,False,False
+692828,"Stüffel, Hamburg",53.67033,10.133854,False,False
+692838,"Vogtredder, Hamburg",53.675103,10.136416,False,False
+692872,"Huusbarg (West), Hamburg",53.644261,10.171582,False,False
+692888,"Lärchenallee, Hamburg",53.62221,10.073618,False,False
+692922,"Ruscheweyhstraße, Hamburg",53.649043,10.060979,False,False
+692932,"Saseler Markt, Hamburg",53.65387,10.111633,False,False
+692933,"Op de Elg, Hamburg",53.654958,10.11833,False,False
+693332,"Moorwerder Norderdeich (Ost), Hamburg",53.473682,10.060296,False,False
+693333,"Moorwerder Mühle, Hamburg",53.470679,10.060529,False,False
+693406,"Roßweg/HDW, Hamburg",53.522969,9.945836,False,False
+693410,"Röörfeld, Hamburg",53.518996,9.95203,False,False
+693646,"Marienkäferweg, Hamburg",53.425392,9.964354,False,False
+693710,"Försterkamp, Hamburg",53.47049,9.916486,False,False
+693791,"Grundheide, Hamburg",53.464135,9.855171,False,False
+693803,"Neuwiedenthaler Straße (Ost), Hamburg",53.477088,9.898903,False,False
+694372,"Danziger Straße, Wentorf bei Hamburg",53.495813,10.261627,False,False
+694464,"Weg zum Freibad, Hamburg",53.448242,10.293835,False,False
+694563,"Neuengammer Hausdeich 421, Hamburg",53.457852,10.205687,False,False
+694586,"Howe, Hamburg",53.42007,10.148345,False,False
+694593,"Kirchwerder Landweg 182, Hamburg",53.449258,10.180383,False,False
+694612,"Vorderdeich 119, Hamburg",53.469142,10.152561,False,False
+702193,"Hainholzweg (Mitte), Hamburg",53.450714,9.930348,False,False
+895409,"Burgwedeltwiete, Hamburg",53.641933,9.91156,False,False
+895707,"Eddelbüttelkamp, Hamburg",53.439217,9.965415,False,False
+895958,"Müggenburger Straße, Hamburg",53.511643,10.052763,False,False
+896052,"Götkensweg, Hamburg",53.671894,10.02682,False,False
+124171,"Neuengammer Hausdeich 331, Hamburg",53.450831,10.214847,False,False
+362377,"Sollredder, Wentorf bei Hamburg",53.487381,10.263488,False,False
+627024,"Neugraben (Am Johannisland) (S), Hamburg",53.475533,9.853957,False,False
+692049,"Schule Marschweg, Hamburg",53.584968,9.761081,False,False
+692058,"Ringheide, Hamburg",53.461879,9.854497,False,False
+692065,"Alte Twiete, Hamburg",53.419234,10.20139,False,False
+692283,"Klinikum Nord (Ochsenzoll), Hamburg",53.672038,10.002387,False,False
+692294,"Klinikum Nord (Heidberg), Hamburg",53.67531,10.028321,False,False
+692584,"Jochim-Sahling-Weg, Hamburg",53.576383,9.851072,False,False
+692609,"Parkstieg, Schenefeld (Bz Hamburg)",53.59954,9.844357,False,False
+692612,"Blankenese (Fähre), Hamburg",53.556985,9.804112,False,False
+692661,"Grimmstraße, Hamburg",53.580536,9.813515,False,False
+692669,"Anne-Frank-Straße, Hamburg",53.570397,9.789316,False,False
+692819,"Poppenbüttler Markt, Hamburg",53.659399,10.084953,False,False
+692823,"Ilsenweg, Hamburg",53.658751,10.10739,False,False
+692834,"Bergstedter Alte Landstraße, Hamburg",53.674015,10.13309,False,False
+692854,"Huusbarg (Mitte), Hamburg",53.643533,10.176544,False,False
+692873,"Frahmredder, Hamburg",53.64729,10.102176,False,False
+692874,"Pfeilshofer Weg, Hamburg",53.641708,10.097277,False,False
+692877,"Am Stühm-Süd, Hamburg",53.627784,10.099911,False,False
+692883,"Eichenallee, Hamburg",53.627109,10.077025,False,False
+692943,"Gussau, Hamburg",53.65885,10.174872,False,False
+693331,"Moorwerder Norderdeich (Fußweg), Hamburg",53.476405,10.058228,False,False
+693351,"Müggenburger Schleuse, Hamburg",53.513117,10.055675,False,False
+693393,"Roßkanal, Hamburg",53.522115,9.947823,False,False
+693416,"Bubendey-Ufer, Hamburg",53.540121,9.885366,False,False
+693494,"Auedeich, Hamburg",53.52679,9.884709,False,False
+693764,"Hohenwisch (Kehre), Hamburg",53.502564,9.877311,False,False
+693798,"Haake, Hamburg",53.471066,9.901258,False,False
+693835,"Moorburger Kirche, Hamburg",53.489628,9.941314,False,False
+694386,"Sternwarte (Universität), Hamburg",53.480298,10.238156,False,False
+694463,"Vossmoorbrücke, Hamburg",53.445806,10.297278,False,False
+694532,"Neuengammer Hausdeich 351, Hamburg",53.453231,10.213894,False,False
+694557,"Hower Brack, Hamburg",53.418452,10.150691,False,False
+694561,"Wraust, Hamburg",53.423288,10.139392,False,False
+694565,"Curslacker Deich 336, Hamburg",53.463784,10.208006,False,False
+694592,"Neuengammer Hinterdeich, Hamburg",53.446651,10.176724,False,False
+694613,"Alte Schule Reitbrook, Hamburg",53.468045,10.148812,False,False
+694740,"Gauerter Hauptdeich 77, Hamburg",53.460261,10.069977,False,False
+694741,"Gauerter Hauptdeich 35, Hamburg",53.463218,10.06675,False,False
+895206,"Essener Straße, Hamburg",53.671031,9.992139,False,False
+895653,"Dradenauer Deichweg, Hamburg",53.511248,9.900575,False,False
+895662,"Nippoldstraße (West), Hamburg",53.520704,9.94447,False,False
+181472,"Jeverländer Weg, Hamburg",53.527922,9.880754,False,False
+370668,"Curslacker Heerweg 258, Hamburg",53.473583,10.239118,False,False
+374706,"Rheingoldweg (Ost), Hamburg",53.583889,9.753656,False,False
+376078,"Auf dem Ralande, Wentorf bei Hamburg",53.485871,10.267434,False,False
+692050,"Klövensteenweg (Süd), Hamburg",53.582469,9.764236,False,False
+692275,"Valvo, Hamburg",53.666644,9.991915,False,False
+692293,"Hasloher Kehre, Hamburg",53.679526,10.030847,False,False
+692570,"Stadtzentrum, Schenefeld (Bz Hamburg)",53.600528,9.838154,False,False
+692627,"Krumdal, Hamburg",53.558072,9.797586,False,False
+692643,"Schenefelder Holt, Hamburg",53.58291,9.829228,False,False
+692670,"Haus Rissen, Hamburg",53.577084,9.773755,False,False
+692794,"Bredenbekstraße, Hamburg",53.692776,10.132398,False,False
+692813,"Ohlendieck, Hamburg",53.662581,10.087443,False,False
+692833,"Bergstedter Markt, Hamburg",53.670213,10.126223,False,False
+692884,"Friedhof Ohlsdorf (Kapelle 11), Hamburg",53.629555,10.074912,False,False
+692923,"Norbert-Schmid-Platz, Hamburg",53.653888,10.062777,False,False
+692942,"Ahrensburger Platz, Hamburg",53.655776,10.176023,False,False
+692948,"Cornehlsweg, Hamburg",53.64703,10.177946,False,False
+693319,"Blumensand, Hamburg",53.501764,9.966385,False,False
+693330,"Bauernstegel, Hamburg",53.479767,10.054453,False,False
+693352,"Peutestraße 72, Hamburg",53.517989,10.052844,False,False
+693409,"Hachmannbrücke, Hamburg",53.520246,9.951733,False,False
+693452,"Hohenwischer Straße 101, Hamburg",53.506663,9.876385,False,False
+693779,"Heykenauweg (Nord), Hamburg",53.481727,9.904549,False,False
+693780,"Heykenauweg (Süd), Hamburg",53.479372,9.901348,False,False
+693817,"Neckersstücken, Hamburg",53.471353,9.819897,False,False
+694377,"Sternwarte (Besucherzentrum), Hamburg",53.48214,10.239577,False,False
+694462,"Altengammer Marschbahndamm, Hamburg",53.441572,10.301683,False,False
+694531,"Neuengammer Hausdeich 310, Hamburg",53.449087,10.214595,False,False
+694558,"Süderquerweg 263, Hamburg",53.412941,10.156651,False,False
+694564,"Rieck-Museum, Hamburg",53.45875,10.215458,False,False
+694591,"Heinrich-Osterath-Straße (Ost), Hamburg",53.444053,10.173551,False,False
+694615,"Reitbrooker Hinterdeich, Hamburg",53.461223,10.13941,False,False
+694739,"Ochsenwerder Elbdeich 3, Hamburg",53.457474,10.075344,False,False
+694758,"Ochsenwerder Kirche, Hamburg",53.47663,10.084522,False,False
+699686,"Rissener Dorfstraße, Hamburg",53.582208,9.75442,False,False
+701195,"Auf der Hohen Schaar, Hamburg",53.497566,9.9635,False,False
+702490,"Moorkoppel, Wentorf bei Hamburg",53.49113,10.267263,False,False
+705517,"Minsbekweg, Hamburg",53.655974,10.077007,False,False
+895077,"Op'n Hainholt, Hamburg",53.580725,9.810629,False,False
+895306,"Bramkoppel, Hamburg",53.661565,10.106995,False,False
+180419,"Tönninger Weg, Hamburg",53.568509,9.84682,False,False
+181119,"Flerrentwiete (Nord), Hamburg",53.583116,9.752649,False,False
+182061,"Kiebitzweg (Mitte), Schenefeld (Bz Hamburg)",53.605032,9.836311,False,False
+366079,"Möbel Schulenburg, Wentorf bei Hamburg",53.489152,10.270598,False,False
+692051,"Suurheid, Hamburg",53.582847,9.768515,False,False
+692439,"Anna-Susanna-Stieg, Hamburg",53.643029,9.921439,False,False
+692611,"Wachtelweg, Schenefeld (Bz Hamburg)",53.596519,9.836464,False,False
+692626,"Falkentaler Weg, Hamburg",53.559502,9.790988,False,False
+692638,"Sieversstücken, Hamburg",53.580599,9.786107,False,False
+692671,"Sülldorfer Brooksweg, Hamburg",53.577345,9.768641,False,False
+692812,"Maike-Harder-Weg, Hamburg",53.666024,10.090239,False,False
+692821,"Feldblumenweg, Hamburg",53.664585,10.10659,False,False
+692827,"Iland, Hamburg",53.664577,10.119993,False,False
+692885,"Sorbusallee, Hamburg",53.627091,10.07324,False,False
+692920,"Högenkamp, Hamburg",53.6569,10.060736,False,False
+692941,"Im Allhorn, Hamburg",53.653924,10.174602,False,False
+692947,"Herkenkrug, Hamburg",53.645753,10.182315,False,False
+693058,"Künnekestraße, Hamburg",53.635883,10.178666,False,False
+693353,"Peutestraße 50, Hamburg",53.520138,10.047917,False,False
+693453,"Hohenwischer Straße 123, Hamburg",53.508973,9.870515,False,False
+693818,"An de Geest, Hamburg",53.469942,9.819349,False,False
+693836,"Moorburger Kirchdeich, Hamburg",53.489844,9.936388,False,False
+694387,"Friedhof Bergedorf (Kapelle 1), Hamburg",53.480819,10.245069,False,False
+694482,"Süderquerweg 208, Hamburg",53.411575,10.163033,False,False
+694521,"Borghorst, Hamburg",53.439954,10.303148,False,False
+694530,"Odemanns Heck, Hamburg",53.44657,10.220358,False,False
+694616,"Wulffsbrücke, Hamburg",53.459218,10.136758,False,False
+694732,"Nagelstegel, Hamburg",53.456171,10.080414,False,False
+701194,"Hohe-Schaar-Kamp, Hamburg",53.496442,9.970592,False,False
+705518,"Rehmbrook, Hamburg",53.660729,10.076656,False,False
+705526,"Kanzlerstraße, Hamburg",53.440287,10.005443,False,False
+895007,"Kamerstücken, Hamburg",53.581894,9.811537,False,False
+895150,"Emder Straße, Hamburg",53.529927,9.878866,False,False
+895252,"Kirschenallee, Hamburg",53.624503,10.073222,False,False
+895654,"Hafenbahnhof Alte Süderelbe, Hamburg",53.502195,9.907919,False,False
+363291,"Nagelshof, Hamburg",53.581498,9.751939,False,False
+370910,"An den Wiesen, Hamburg",53.479309,9.855674,False,False
+371017,"Bubendey-Ufer (Fähre), Hamburg",53.539483,9.884718,False,False
+371184,"Im Fischbeker Heidbrook (West), Hamburg",53.467048,9.809964,False,False
+692045,"Asklepios Westklinikum (West), Hamburg",53.582253,9.773639,False,False
+692438,"Eisenhansweg, Hamburg",53.645331,9.921961,False,False
+692590,"Hasselbinnen, Schenefeld (Bz Hamburg)",53.593139,9.834792,False,False
+692625,"Elbhöhenweg, Hamburg",53.56192,9.792462,False,False
+692645,"Am Botterbarg, Hamburg",53.574855,9.834927,False,False
+692662,"Reinheimerweg, Hamburg",53.583062,9.814432,False,False
+692672,"Herwigredder, Hamburg",53.576797,9.764362,False,False
+692796,"Alsterblick, Hamburg",53.699131,10.124227,False,False
+692803,"Twietenkoppel, Hamburg",53.673062,10.121971,False,False
+692818,"Vörstekoppel, Hamburg",53.662626,10.080593,False,False
+692826,"Schönsberg, Hamburg",53.658823,10.113242,False,False
+692919,"Heidkamp, Hamburg",53.659677,10.059765,False,False
+692924,"Goldröschenweg, Hamburg",53.651102,10.068638,False,False
+692940,"Lerchenberg, Hamburg",53.653376,10.168894,False,False
+692946,"Buchenstieg, Hamburg",53.648243,10.185722,False,False
+693317,"Burgweide, Hamburg",53.486599,10.02282,False,False
+693321,"Kattwykdamm, Hamburg",53.493134,9.975518,False,False
+693328,"Goetjensorter Deich, Hamburg",53.490608,10.04816,False,False
+693354,"Peuter Elbdeich, Hamburg",53.522088,10.042344,False,False
+693419,"Zollamt Waltershof, Hamburg",53.519401,9.926608,False,False
+693430,"AIRBUS (Schiffsanleger), Hamburg",53.544822,9.840995,False,False
+693454,"Hohenwischer Straße 149, Hamburg",53.508173,9.864699,False,False
+693790,"Fischbeker Heideweg, Hamburg",53.459029,9.851485,False,False
+693830,"Heykenstieg, Hamburg",53.481952,9.906508,False,False
+693837,"Moorburger Elbdeich 227, Hamburg",53.493359,9.931732,False,False
+694388,"Friedhof Bergedorf, Hamburg",53.478877,10.249977,False,False
+694481,"Neesentwiete, Hamburg",53.409966,10.171987,False,False
+694488,"Kirchwerder Kirche, Hamburg",53.41865,10.199512,False,False
+694520,"Zeltplatz Altengamme, Hamburg",53.432817,10.298492,False,False
+694528,"Lütte Stegel, Hamburg",53.445231,10.224834,False,False
+694529,"Neuengammer Kirche, Hamburg",53.446031,10.222254,False,False
+694535,"Curslacker Deich 200, Hamburg",53.452827,10.219441,False,False
+694582,"Fersenweg, Hamburg",53.432853,10.15817,False,False
+694590,"Kirchwerder Hausdeich (West), Hamburg",53.440808,10.184032,False,False
+694617,"Heinrich-Osterath-Straße 241, Hamburg",53.456269,10.141504,False,False
+694757,"Eichholzfelder Deich, Hamburg",53.479309,10.091165,False,False
+699683,"Grotiusweg (Mitte), Hamburg",53.568698,9.772911,False,False
+895151,"Breslauer Straße, Hamburg",53.519104,9.958798,False,False
+895568,"Heykenaukamp, Hamburg",53.478985,9.905358,False,False
+895990,"Distelacker, Hamburg",53.468351,9.855665,False,False
+181112,"Tannhäuserweg, Hamburg",53.585804,9.749161,False,False
+363185,"Heideblütenweg, Hamburg",53.464423,9.81258,False,False
+370794,"Wülpensand, Hamburg",53.579188,9.749637,False,False
+376911,"Im Vogelkamp, Hamburg",53.478266,9.850712,False,False
+618425,"Lürade, Hamburg",53.425535,9.930878,False,False
+692268,"Lademannbogen (Süd), Hamburg",53.642823,10.028609,False,False
+692437,"Dornröschenweg, Hamburg",53.648567,9.920639,False,False
+692583,"Busbetriebshof, Schenefeld (Bz Hamburg)",53.591521,9.833111,False,False
+692624,"Waseberg, Hamburg",53.561812,9.797883,False,False
+692637,"Rissener Busch, Hamburg",53.580743,9.766879,False,False
+692673,"Wittenbergener Weg (Mitte), Hamburg",53.5773,9.757557,False,False
+692797,"Wohldorf, Hamburg",53.703949,10.120065,False,False
+692804,"Beerbuschredder, Hamburg",53.677719,10.119058,False,False
+692811,"Treudelberg, Hamburg",53.674968,10.092711,False,False
+692820,"Mellingburgredder, Hamburg",53.66837,10.106123,False,False
+692847,"Leuteritzweg, Hamburg",53.658868,10.060044,False,False
+692918,"Tegelsbarg (Nord), Hamburg",53.661367,10.059262,False,False
+692926,"Müssenredder (Mitte), Hamburg",53.655425,10.07315,False,False
+692939,"Claus-Ferck-Straße, Hamburg",53.651722,10.16707,False,False
+693316,"Stübenhofer Wettern, Hamburg",53.485215,10.024096,False,False
+693356,"Peutestraße 22, Hamburg",53.523985,10.036205,False,False
+693434,"Finkenwerder, Hamburg",53.536381,9.878866,False,False
+693455,"Hohenwischer Straße 223, Hamburg",53.508245,9.854344,False,False
+693456,"Achtern Brack (Ost), Hamburg",53.508029,9.850487,False,False
+693782,"Heykenaukamp (Kehre), Hamburg",53.477996,9.909484,False,False
+693789,"Fischbeker Holtweg, Hamburg",53.467416,9.85971,False,False
+693799,"Georg-Heyken-Straße, Hamburg",53.482725,9.900225,False,False
+693802,"Moorburger Kreuzung, Hamburg",53.495687,9.910302,False,False
+693838,"Schule Moorburg, Hamburg",53.494869,9.927741,False,False
+694458,"Schule Curslack (Kehre), Hamburg",53.448035,10.22114,False,False
+694480,"Auf dem Sülzbrack, Hamburg",53.407548,10.177812,False,False
+694490,"Achterdiekbrücke, Hamburg",53.427082,10.203359,False,False
+694518,"Altengamme (Süd), Hamburg",53.427603,10.285862,False,False
+694519,"Altengammer Löschplatz, Hamburg",53.428718,10.290725,False,False
+694534,"Curslack (Feuerwehr), Hamburg",53.450049,10.222039,False,False
+694587,"Marschbahndamm, Hamburg",53.428619,10.154458,False,False
+694618,"Durchdeich (Polizei), Hamburg",53.451973,10.135805,False,False
+694620,"Fünfhausen, Hamburg",53.444754,10.130861,False,False
+694738,"Oortkaten, Hamburg",53.449042,10.090418,False,False
+694756,"Ochsenwerder Mühlenweg, Hamburg",53.478383,10.098931,False,False
+895181,"Bahnübergang Sieversstücken, Hamburg",53.58122,9.785226,False,False
+895247,"Ulzburger Straße, Hamburg",53.66366,10.076045,False,False
+181113,"Isoldeweg, Hamburg",53.586397,9.74348,False,False
+361489,"Bookweetenkamp, Hamburg",53.575916,9.749125,False,False
+363186,"Heidschnuckenring, Hamburg",53.465888,9.815942,False,False
+366080,"An der Lohe, Wentorf bei Hamburg",53.495256,10.271632,False,False
+379015,"Klärwerk Dradenau, Hamburg",53.518412,9.914257,False,False
+618759,"Lürade Landesgrenze, Hamburg",53.421814,9.929835,False,False
+627391,"Blaumeisenweg, Hamburg",53.451065,9.943283,False,False
+692046,"Asklepios Westklinikum (Mitte), Hamburg",53.582874,9.777252,False,False
+692047,"Asklepios Westklinikum (Ost), Hamburg",53.581993,9.782223,False,False
+692266,"Wilhelm-Stein-Weg, Hamburg",53.644647,10.033481,False,False
+692436,"Grothwisch, Hamburg",53.651758,9.918698,False,False
+692560,"Aneken, Schenefeld (Bz Hamburg)",53.591296,9.823852,False,False
+692613,"Ginsterstieg, Hamburg",53.573165,9.757548,False,False
+692615,"Tinsdaler Kirchenweg, Hamburg",53.571071,9.757782,False,False
+692787,"Garleff-Bindt-Weg, Hamburg",53.665943,10.077879,False,False
+692805,"Sarenweg, Hamburg",53.683625,10.115471,False,False
+692810,"Ödenweg, Hamburg",53.68038,10.095102,False,False
+692925,"Wesselstraat, Hamburg",53.655408,10.067811,False,False
+693457,"Achtern Brack (West), Hamburg",53.507751,9.846595,False,False
+693458,"Vierzigstücken 31, Hamburg",53.507895,9.837561,False,False
+693839,"Moorburger Elbdeich 273, Hamburg",53.495058,9.922158,False,False
+694090,"Hamburger Straße, Großensee (Kreis Stormarn)",53.615585,10.340975,False,False
+694389,"Friedhof Bergedorf (Kapelle 2), Hamburg",53.478356,10.257222,False,False
+694491,"Kirchwerder Hausdeich (Mitte), Hamburg",53.430794,10.198298,False,False
+694506,"Zwischen den Zäunen, Hamburg",53.44043,10.231693,False,False
+694517,"Altengammer Elbwiesen, Hamburg",53.426713,10.279336,False,False
+694533,"Schule Curslack, Hamburg",53.447793,10.221373,False,False
+694589,"Spritzenhaus, Hamburg",53.437221,10.187871,False,False
+694619,"Schule Fünfhausen, Hamburg",53.44862,10.133342,False,False
+694755,"Reitdeich, Hamburg",53.475165,10.101934,False,False
+895330,"Rüschpark, Hamburg",53.541613,9.863405,False,False
+895798,"Blankenese (Schiffsanleger), Hamburg",53.55658,9.804058,False,False
+181114,"Rheingoldweg (West), Hamburg",53.586289,9.739543,False,False
+362021,"Parkplatz Dradenau, Hamburg",53.523931,9.903029,False,False
+363812,"Merlingasse, Hamburg",53.47601,9.846119,False,False
+364088,"Farnstieg, Hamburg",53.575898,9.75202,False,False
+364187,"Im Fischbeker Heidbrook (Ost), Hamburg",53.468162,9.813722,False,False
+480934,"Hamburger Straße, Reinfeld (Holstein)",53.83041,10.477755,False,False
+692788,"Poppenbütteler Berg, Hamburg",53.668765,10.082562,False,False
+692798,"Duvenstedter Triftweg, Hamburg",53.705918,10.116928,False,False
+692806,"Madacker, Hamburg",53.686978,10.10695,False,False
+692816,"Sandkuhlenkoppel, Hamburg",53.667786,10.067406,False,False
+692846,"Landahlweg, Hamburg",53.656091,10.060916,False,False
+693329,"Einlagedeich, Hamburg",53.479605,10.045562,False,False
+693459,"Vierzigstücken 73, Hamburg",53.509989,9.832374,False,False
+693788,"Störtebekerweg, Hamburg",53.469547,9.863684,False,False
+693840,"Moorburger Elbdeich 297, Hamburg",53.495175,9.918653,False,False
+694483,"Kirchenheerweg, Hamburg",53.404303,10.186019,False,False
+694492,"Hitscherberg, Hamburg",53.4375,10.197282,False,False
+694505,"Jean-Dolidier-Weg, Hamburg",53.438012,10.233554,False,False
+694516,"Gammer Weg (Süd), Hamburg",53.426938,10.27343,False,False
+694731,"Oortkatenufer, Hamburg",53.440664,10.101242,False,False
+694754,"Goseburg, Hamburg",53.468567,10.106024,False,False
+372804,"Raalandsweg, Hamburg",53.577273,9.76118,False,False
+379092,"Achtern Sand, Hamburg",53.584375,9.770825,False,False
+627392,"Nachtigallenweg, Hamburg",53.451325,9.947895,False,False
+692569,"Borgfelde, Schenefeld (Bz Hamburg)",53.599567,9.82885,False,False
+692674,"Fruteweg, Hamburg",53.571376,9.751426,False,False
+692799,"Trilluper Weg, Hamburg",53.707455,10.11006,False,False
+692807,"Lemsahler Dorfstraße, Hamburg",53.685854,10.102833,False,False
+693401,"Klütjenfelder Straße, Hamburg",53.52625,9.980723,False,False
+693417,"Dradenau, Hamburg",53.525145,9.900099,False,False
+693460,"Hasselwerder Straße, Hamburg",53.513099,9.825668,False,False
+693498,"Steendiek, Hamburg",53.532282,9.878794,False,False
+694484,"Teufelsort, Hamburg",53.411332,10.190999,False,False
+694504,"Bei der Blauen Brücke, Hamburg",53.436772,10.237033,False,False
+694523,"Altengamme (Feuerwehr), Hamburg",53.43172,10.274949,False,False
+694737,"Overhaken, Hamburg",53.436772,10.106977,False,False
+895248,"Tannenhof, Hamburg",53.68651,10.094967,False,False
+895655,"Heidrand, Hamburg",53.465447,9.865787,False,False
+895689,"Am Altenwerder Kirchtal, Hamburg",53.507041,9.921601,False,False
+181115,"Brünschentwiete, Hamburg",53.583152,9.741898,False,False
+181118,"Marschweg (Kehre), Hamburg",53.58442,9.778088,False,False
+362043,"Dorfplatz, Schenefeld (Bz Hamburg)",53.600492,9.8245,False,False
+372018,"SWOP, Hamburg",53.53159,9.894013,False,False
+375760,"Johanneskirche Rissen, Hamburg",53.580554,9.762384,False,False
+375905,"Achter de Höf, Hamburg",53.579458,9.761449,False,False
+692800,"Lohe, Hamburg",53.708633,10.10597,False,False
+692808,"Fiersbarg, Hamburg",53.689647,10.096208,False,False
+692815,"Drosselstieg, Hamburg",53.671318,10.061132,False,False
+693461,"Nincoper Straße 28, Hamburg",53.512803,9.819636,False,False
+693786,"Lüttmattensteed, Hamburg",53.459245,9.866443,False,False
+693787,"Neugrabener Heideweg, Hamburg",53.462544,9.866057,False,False
+693801,"Am Altenwerder Kirchtal (Süd), Hamburg",53.503948,9.921835,False,False
+694485,"Karkenland, Hamburg",53.416942,10.197084,False,False
+694503,"Windpark Neuengamme, Hamburg",53.431145,10.241932,False,False
+694522,"Schule Altengamme, Hamburg",53.427576,10.268935,False,False
+694524,"Lüttwetter, Hamburg",53.434947,10.276019,False,False
+694560,"Hower Hauptdeich, Hamburg",53.41625,10.148723,False,False
+694736,"Overwerder, Hamburg",53.430614,10.113404,False,False
+694753,"Ochsenwerder Norderdeich, Hamburg",53.465528,10.113089,False,False
+181116,"Adebarweg, Hamburg",53.583557,9.745377,False,False
+181117,"Am Lilienberg, Hamburg",53.584375,9.775445,False,False
+361519,"Container Terminal EUROGATE, Hamburg",53.523041,9.924046,False,False
+364016,"Eurokombi, Hamburg",53.53435,9.887316,False,False
+692567,"Op de Gehren, Schenefeld (Bz Hamburg)",53.596771,9.822189,False,False
+692675,"Tinsdaler Heideweg, Hamburg",53.57152,9.742266,False,False
+692801,"Mesterbrooksweg, Hamburg",53.705118,10.102958,False,False
+692802,"Bökenbarg, Hamburg",53.696578,10.10037,False,False
+692814,"Heimgarten, Hamburg",53.673512,10.056961,False,False
+693462,"Arp-Schnitger-Stieg, Hamburg",53.513917,9.8116,False,False
+693497,"Finkenwerder (Fähre), Hamburg",53.535384,9.878705,False,False
+693761,"Moorburger Elbdeich 379, Hamburg",53.497332,9.903578,False,False
+693785,"Bauernholztal, Hamburg",53.456359,9.866731,False,False
+694459,"Gammer Weg 146, Hamburg",53.441311,10.278131,False,False
+694502,"Neuengammer Hausdeich 52, Hamburg",53.426479,10.249599,False,False
+694562,"Warwischer Hinterdeich, Hamburg",53.425436,10.121458,False,False
+694583,"Alte Schule Seefeld, Hamburg",53.444008,10.16431,False,False
+895690,"Altenwerder Hauptstraße (Mitte), Hamburg",53.500344,9.921448,False,False
+895782,"Oortkatenweg (Nord), Hamburg",53.464189,10.120236,False,False
+373093,"Hexentwiete, Hamburg",53.58486,9.765333,False,False
+626250,"Rüschpark (Fähre), Hamburg",53.539977,9.863585,False,False
+692789,"Specksaalredder, Hamburg",53.701648,10.103597,False,False
+693465,"Nincoper Straße 99, Hamburg",53.513639,9.803986,False,False
+693762,"Moorburger Alter Deich, Hamburg",53.49904,9.891262,False,False
+693784,"Quellgrund, Hamburg",53.452881,9.867099,False,False
+694474,"Neuengammer Gedenkstätte/Mahnmal, Hamburg",53.434983,10.231684,False,False
+694501,"Neuengammer Marschbahndamm, Hamburg",53.424061,10.253501,False,False
+694584,"Seefelder Fischteiche, Hamburg",53.451227,10.157047,False,False
+895691,"Altenwerder Hauptstraße (Süd), Hamburg",53.499013,9.919246,False,False
+371094,"Röschdaalskoppel, Hamburg",53.586892,9.764047,False,False
+693463,"Schule Arp-Schnitger-Stieg, Hamburg",53.517423,9.81142,False,False
+693763,"Hohenwischer Straße 20, Hamburg",53.499921,9.884287,False,False
+693783,"Waldfrieden (Kehre), Hamburg",53.449393,9.867882,False,False
+693800,"Zum Dubben, Hamburg",53.473924,9.904288,False,False
+694471,"KZ-Gedenkstätte (Klinkerwerk), Hamburg",53.432403,10.229841,False,False
+694585,"Heinrich-Osterath-Straße (Mitte), Hamburg",53.455182,10.147788,False,False
+699691,"Achterndiek, Schenefeld (Bz Hamburg)",53.606389,9.829929,False,False
+895277,"Marschkamper Deich, Hamburg",53.515095,9.793918,False,False
+896012,"Hamburg Rothenhauschaussee 243, Börnsen",53.471965,10.26347,False,False
+364086,"Falkensteiner Ufer (ElbeCamp), Hamburg",53.564985,9.76393,False,False
+374095,"Siegrunweg, Hamburg",53.589256,9.767139,False,False
+693464,"Organistenweg, Hamburg",53.520641,9.811717,False,False
+693499,"Norderschulweg, Hamburg",53.533487,9.875927,False,False
+694472,"Neuengammer Gedenkstätte Ausstellung, Hamburg",53.427971,10.226686,False,False
+694515,"Neuengammer Elbdeich, Hamburg",53.422533,10.257339,False,False
+374096,"Klövensteenweg (Mitte), Hamburg",53.589418,9.763364,False,False
+597003,"Marschkamper Deich 72, Hamburg",53.520587,9.799698,False,False
+625945,"Brunnenstieg, Hamburg",53.533855,9.870785,False,False
+693480,"Seehof, Hamburg",53.518061,9.782142,False,False
+693961,"Tangstedt (OD) Puckaff, Hamburg",53.713819,10.076818,False,False
+694559,"Howe (Ost), Hamburg",53.411494,10.152309,False,False
+694614,"Ochsenwerder Norderdeich 320, Hamburg",53.461366,10.130546,False,False
+705523,"Seehofring, Hamburg",53.520938,9.779724,False,False
+895132,"Neuengammer Hauptdeich, Hamburg",53.417346,10.252746,False,False
+373098,"Gudrunstraße, Hamburg",53.589022,9.760667,False,False
+693481,"Liedenkummer Bogen, Hamburg",53.523527,9.778592,False,False
+693485,"Seehofring (Süd), Hamburg",53.521037,9.779778,False,False
+693500,"Kneienblick, Hamburg",53.533963,9.864924,False,False
+693819,"Cuxhavener Straße (West), Hamburg",53.467326,9.809146,False,False
+694470,"Neuengammer Heerweg, Hamburg",53.419647,10.220825,False,False
+694475,"Sande, Hamburg",53.406298,10.158548,False,False
+694479,"Grünerdeich, Hamburg",53.402208,10.190594,False,False
+372020,"Container Terminal Burchardkai, Hamburg",53.526655,9.929718,False,False
+693478,"Nincop, Hamburg",53.520632,9.774888,False,False
+693501,"Nordmeerstraße, Hamburg",53.534808,9.85909,False,False
+693758,"Ehestorf Rehwechsel, Hamburg",53.455649,9.894696,False,False
+694476,"Lütjenburg (Kirchwerder), Hamburg",53.400491,10.168562,False,False
+694487,"Sielkuhle, Hamburg",53.41758,10.201345,False,False
+694514,"Achterdeich, Hamburg",53.408681,10.246624,False,False
+895040,"Wragekamp, Hamburg",53.711186,10.107525,False,False
+379109,"Rüdigerau (Kinder-Hospiz), Hamburg",53.589813,9.752334,False,False
+693482,"Alter Fährweg, Hamburg",53.532058,9.778547,False,False
+693502,"Rudolf-Kinau-Allee, Hamburg",53.535725,9.852986,False,False
+693765,"Rudolf Steiner Schule Harburg, Hamburg",53.461537,9.891892,False,False
+694477,"Sülzbrack, Hamburg",53.399224,10.173838,False,False
+694478,"Zollenspieker (Fähre), Hamburg",53.39837,10.182729,False,False
+694486,"Kirchwerder Hausdeich 404, Hamburg",53.414802,10.206164,False,False
+213011,"Schule Norderschulweg, Hamburg",53.531869,9.876493,False,False
+615056,"Haupteingang Sietas, Hamburg",53.531284,9.787374,False,False
+693503,"AIRBUS, Hamburg",53.536597,9.847979,False,False
+694461,"Schule Zollenspieker, Hamburg",53.400824,10.183583,False,False
+694507,"Kirchwerder Mühlendamm, Hamburg",53.412294,10.210416,False,False
+694513,"Kraueler Hauptdeich 261, Hamburg",53.402694,10.241671,False,False
+224090,"Zweiter Fersenweg, Hamburg",53.410182,10.209795,False,False
+371108,"Lohengrinweg, Hamburg",53.587449,9.753044,False,False
+694512,"Kraueler Hauptdeich, Hamburg",53.397965,10.234525,False,False
+895276,"Neuer Fährweg, Hamburg",53.53017,9.791491,False,False
+172062,"Mühlenredder, Hamburg",53.710745,10.129836,False,False
+181470,"Hein-Saß-Stieg (ZAL), Hamburg",53.535455,9.866812,False,False
+374753,"Alter Bahnhof Kirchwerder, Hamburg",53.425158,10.200716,False,False
+628028,"Palstek, Hamburg",53.533774,9.851314,False,False
+628092,"Finkenwerder Airbus, Hamburg",53.536642,9.847863,False,False
+693483,"Neuenfelder Fährdeich (Ost), Hamburg",53.528138,9.79799,False,False
+694468,"Kiebitzbrack, Hamburg",53.410955,10.236394,False,False
+694509,"Riepenburg, Hamburg",53.402118,10.204788,False,False
+694511,"Ost-Kraueler Bogen, Hamburg",53.397687,10.224987,False,False
+699619,"Alter Fährweg (Kehre), Hamburg",53.532084,9.776659,False,False
+895664,"EUROPA-CENTER Air30, Hamburg",53.537658,9.864421,False,False
+895692,"Westerweiden (AIRBUS), Hamburg",53.52937,9.841678,False,False
+172063,"BrookHus, Hamburg",53.714251,10.139536,False,False
+372379,"Norderquerweg 92, Hamburg",53.4295,10.196833,False,False
+610845,"Ehestorf Hohlredder, Hamburg",53.453761,9.896899,False,False
+692064,"Kiebitzdeich 154, Hamburg",53.41393,10.231666,False,False
+694460,"Riepenburger Brack, Hamburg",53.400105,10.209166,False,False
+694508,"Krummer Hagen, Hamburg",53.406262,10.207701,False,False
+694510,"West-Kraueler Bogen, Hamburg",53.398801,10.21589,False,False
+895663,"Rüschhalbinsel, Hamburg",53.535195,9.865643,False,False
+615137,"Neuenfelder Damm, Hamburg",53.529855,9.804867,False,False
+618667,"Ovelgönne Hamburger Chaussee, Buxtehude",53.451137,9.755444,False,False
+628444,"Neue Bullerrinne, Hamburg",53.530745,9.847934,False,False
+693488,"AIRBUS (Kehre), Hamburg",53.5371,9.847296,False,False
+693489,"Nordmeertwiete, Hamburg",53.531572,9.859054,False,False
+693496,"Seehofring (Nord), Hamburg",53.525046,9.780488,False,False
+694467,"Norderquerweg 42, Hamburg",53.4343,10.191583,False,False
+694469,"Kiebitzdeich (Mitte), Hamburg",53.415225,10.226138,False,False
+701511,"Hamburger Str.(Möbel Kraft), Bad Segeberg",53.937093,10.299319,False,False
+607375,"Seehofweg, Hamburg",53.524156,9.782907,False,False
+693490,"Finkenwerder Landscheideweg, Hamburg",53.52821,9.8598,False,False
+693504,"Am Rosengarten, Hamburg",53.526277,9.822073,False,False
+693506,"Sperrwerk Estemündung, Hamburg",53.534242,9.792992,False,False
+693509,"Altes Estesperrwerk, Hamburg",53.53364,9.775418,False,False
+694457,"Carlsbrack, Hamburg",53.403575,10.196662,False,False
+694744,"Durchdeich (Süd), Hamburg",53.441213,10.121584,False,False
+181468,"Neßpriel, Hamburg",53.536085,9.858029,False,False
+693486,"Urenfleet, Hamburg",53.521513,9.783014,False,False
+693491,"Norderkirchenweg, Hamburg",53.528543,9.864088,False,False
+694745,"Hohedeich, Hamburg",53.440763,10.117161,False,False
+895693,"Neuenfelder Kirche, Hamburg",53.523895,9.810422,False,False
+693432,"Sperrwerk Neuenfelde, Hamburg",53.535078,9.791356,False,False
+694746,"Hohedeich (Feuerwehr), Hamburg",53.441635,10.111426,False,False
+693507,"Cranzer Elbdeich, Hamburg",53.540364,9.774654,False,False
+693508,"Cranz (Fähre), Hamburg",53.535375,9.779356,False,False
+693510,"Estebogen, Hamburg",53.530673,9.77203,False,False
+694748,"Ochsenwerder Elbdeich, Hamburg",53.44666,10.10784,False,False
+694749,"Hohendeicher See (Nord), Hamburg",53.449429,10.099722,False,False
+700978,"Hamburger Straße, Barmstedt",53.785535,9.783518,False,False
+701027,"Hamburger Straße, Heist",53.657763,9.668537,False,False
+616784,"Hamburger Landstraße, Bardowick",53.297295,10.383206,False,False
+693431,"Cranz, Hamburg",53.534673,9.779589,False,False
+617576,"Finkenwerder Airbus/Am Tower, Hamburg",53.540984,9.841354,False,False
+705067,"Hamburger Straße, Berkenthin",53.733632,10.63761,False,False
+699489,"Hamburger Straße, Lübeck",53.850033,10.636936,False,False
+617836,"Finkenwerder Airbus Stellplatz 0, Hamburg",53.541074,9.84015,False,False
+693451,"AIRBUS (Werkgelände), Hamburg",53.541685,9.836042,False,False
+701217,"Hamburger Straße, Bad Bramstedt",53.910917,9.881491,False,False
+614919,"Finkenwerder Airbus Stellplatz 13, Hamburg",53.541245,9.838954,False,False
+614920,"Finkenwerder Airbus Stellplatz 8, Hamburg",53.541155,9.839745,False,False
+614921,"Finkenwerder Airbus Stellplatz 12, Hamburg",53.541209,9.839323,False,False
+614922,"Finkenwerder Airbus Stellplatz 14, Hamburg",53.541164,9.83953,False,False
+614923,"Finkenwerder Airbus Stellplatz 16, Hamburg",53.541245,9.839143,False,False
+614924,"Finkenwerder Airbus Stellplatz 11, Hamburg",53.541227,9.839188,False,False
+614925,"Finkenwerder Airbus Stellplatz 9, Hamburg",53.541137,9.839592,False,False
+614926,"Finkenwerder Airbus Stellplatz 10, Hamburg",53.541245,9.839026,False,False
+614927,"Finkenwerder Airbus Stellplatz 17, Hamburg",53.541397,9.837983,False,False
+614928,"Finkenwerder Airbus Stellplatz 4, Hamburg",53.541307,9.840096,False,False
+614929,"Finkenwerder Airbus Stellplatz 6, Hamburg",53.541298,9.839646,False,False
+776633,"Stader Straße/Hamburger Straße, Bremen",53.068061,8.848927,False,False
+700163,"Sereetz Hamburger Straße, Ratekau",53.921929,10.728302,False,False
